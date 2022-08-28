@@ -1,0 +1,14 @@
+name: frrsa
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - joblib=1.1.*
+  - numba=0.55.*
+  - numpy=1.21.*
+  - pandas=1.4.*
+  - psutil=5.9.*
+  - python=3.8.*
+  - scikit-learn=1.0.*
+  - scipy=1.8.*
+  - spyder=5.1.*

@@ -1,0 +1,17 @@
+__pycache__
+*.zip
+*.tar
+*.tar.gz
+*out
+*.DS_Store
+data/ares_embedding
+data/embeddings
+data/corpora
+data/retraining
+*.pycv
+*.txt
+*.pyc
+*.pdf
+*.png
+*.jpg
+*.pkl

@@ -1,0 +1,1855 @@
+id,Word,synset,Wordnet Synset
+aardvark,aardvark,aardvark.n.01,orycteropus afer
+abacus,abacus,abacus.n.02,
+accordion,accordion,accordion.n.01,squeeze box
+acorn,acorn,acorn.n.01,
+air_conditioner,air conditioner,air_conditioner.n.01,"airconditioner,air-conditioner"
+air_mattress,air mattress,air_mattress.n.01,"air-mattress,airmattress"
+air_pump,air pump,air_pump.n.01,"air-pump,airpump"
+airbag,airbag,air_bag.n.01,
+airboat,airboat,,
+aircraft_carrier,aircraft carrier,aircraft_carrier.n.01,"aircraftcarrier,aircraft-carrier"
+airplane,airplane,airplane.n.01,"plane,aeroplane"
+album,album,album.n.02,
+alligator,alligator,alligator.n.02,gator
+almond,almond,almond.n.02,
+aloe,aloe,aloe.n.01,
+alpaca,alpaca,alpaca.n.03,lama pacos
+altar,altar,altar.n.02,
+aluminum_foil,aluminum foil,aluminum_foil.n.01,"aluminumfoil,aluminum-foil"
+amber,amber,amber.n.02,
+ambulance,ambulance,ambulance.n.01,
+amplifier,amplifier,amplifier.n.01,
+anchor,anchor,anchor.n.01,ground tackle
+ankle,ankle,ankle.n.01,"articulatio talocruralis,mortise joint"
+anklet,anklet,anklet.n.03,ankle bracelet
+ant,ant,ant.n.01,"emmet,pismire"
+anteater,anteater,anteater.n.01,
+antelope,antelope,antelope.n.01,
+antenna,antenna,antenna.n.01,transmitting aerial
+anvil,anvil,anvil.n.01,
+appetizer,appetizer,appetizer.n.01,appetiser
+apple,apple,apple.n.01,
+apple_tree,apple tree,apple_tree.n.01,"appletree,apple-tree"
+applesauce,applesauce,applesauce.n.01,apple sauce
+apron,apron,apron.n.01,
+aquarium,aquarium,aquarium.n.01,"marine museum,fish tank"
+arch,arch,arch.n.01,
+arm,arm,arm.n.01,
+armor,armor,armor.n.01,
+arrow,arrow,arrow.n.02,
+artichoke,artichoke,artichoke.n.02,
+arugula,arugula,arugula.n.01,
+ashtray,ashtray,ashtray.n.01,
+asparagus,asparagus,asparagus.n.02,
+avocado,avocado,avocado.n.01,"alligator pear,aguacate"
+awning,awning,awning.n.01,"sunblind,sunshade"
+axe,axe,ax.n.01,ax
+baby,baby,baby.n.01,"infant,babe"
+backdrop,backdrop,backdrop.n.01,backcloth
+backgammon,backgammon,backgammon.n.01,
+backpack,backpack,backpack.n.01,"back pack,packsack,knapsack,rucksack,haversack"
+backscratcher,backscratcher,backscratcher.n.02,
+bacon,bacon,bacon.n.01,
+badge,badge,badge.n.01,
+badger,badger,badger.n.01,
+bag,bag,bag.n.01,
+bagel,bagel,bagel.n.01,beigel
+bagpipe,bagpipe,bagpipe.n.01,
+baklava,baklava,baklava.n.01,
+balance_beam,balance beam,balance_beam.n.01,"balance-beam,balancebeam"
+ball,ball,ball.n.06,
+balloon,balloon,balloon.n.02,
+ballot_box,ballot box,ballot_box.n.01,"ballotbox,ballot-box"
+bamboo,bamboo,bamboo.n.02,
+banana,banana,banana.n.02,
+banana_peel,banana peel,banana_peel.n.01,"bananapeel,banana-peel"
+banana_split,banana split,banana_split.n.01,"banana-split,bananasplit"
+bandage,bandage,bandage.n.01,
+bandanna,bandanna,bandanna.n.01,bandana
+banjo,banjo,banjo.n.01,
+bank,bank,bank.n.08,
+banner,banner,banner.n.01,
+barbed_wire,barbed wire,barbed_wire.n.01,"barbedwire,barbed-wire"
+barbell,barbell,barbell.n.01,
+barcode,barcode,bar_code.n.01,
+bark,bark,bark.n.01,
+barnacle,barnacle,barnacle.n.01,"cirripede,cirriped"
+barrel,barrel,barrel.n.03,
+barrette,barrette,barrette.n.01,
+baseball,baseball,baseball.n.02,
+baseball_bat,baseball bat,baseball_bat.n.01,"baseball-bat,baseballbat"
+baseball_glove,baseball glove,baseball_glove.n.01,"baseballglove,baseball-glove"
+basil,basil,basil.n.01,
+basket,basket,basket.n.01,handbasket
+basketball,basketball,basketball.n.02,
+basketball_hoop,basketball hoop,basket.n.03,"basketball-hoop,basketballhoop"
+bassinet,bassinet,bassinet.n.01,
+bassoon,bassoon,bassoon.n.01,
+bat1,bat,bat.n.01,chiropteran
+bat2,bat,bat.n.05,
+bathmat,bathmat,bath_mat.n.01,
+bathrobe,bathrobe,bathrobe.n.01,
+bathtub,bathtub,bathtub.n.01,"tub,bathing tub"
+baton1,baton,baton.n.01,
+baton2,baton,baton.n.02,
+baton3,baton,baton.n.04,
+baton4,baton,baton.n.05,
+batter,batter,batter.n.02,
+battery,battery,battery.n.02,
+bazooka,bazooka,bazooka.n.01,
+beachball,beachball,beachball.n.01,
+bead,bead,bead.n.01,
+beaker,beaker,beaker.n.01,
+bean,bean,bean.n.02,
+beanbag,beanbag,beanbag.n.01,
+beanie,beanie,beanie.n.01,beany
+bear,bear,bear.n.01,
+beard,beard,beard.n.01,"face fungus,whiskers"
+beaver,beaver,beaver.n.06,
+bed,bed,bed.n.01,
+bedpan,bedpan,bedpan.n.01,
+bedpost,bedpost,bedpost.n.01,
+bee,bee,bee.n.01,
+beehive,beehive,beehive.n.02,
+beer,beer,beer.n.01,
+beet,beet,beet.n.02,
+beetle,beetle,beetle.n.01,
+bell,bell,bell.n.01,
+bell_pepper,bell pepper,bell_pepper.n.02,"bellpepper,bell-pepper"
+belt,belt,belt.n.02,
+belt_buckle,belt buckle,belt_buckle.n.01,"belt-buckle,beltbuckle"
+bench,bench,bench.n.01,
+berry,berry,berry.n.01,
+bib,bib,bib.n.02,
+bike,bike,bike.n.02,
+bikini,bikini,bikini.n.01,
+bin,bin,bin.n.01,
+binder,binder,binder.n.03,ring-binder
+binoculars,binoculars,binoculars.n.01,"opera glasses,field glasses"
+bird,bird,bird.n.01,
+birdbath,birdbath,birdbath.n.01,
+birdcage,birdcage,birdcage.n.01,
+birdhouse,birdhouse,birdhouse.n.01,
+birthday_cake,birthday cake,birthday_cake.n.01,"birthdaycake,birthday-cake"
+biscuit,biscuit,biscuit.n.01,
+bison,bison,bison.n.01,
+blackberry,blackberry,blackberry.n.01,
+blanket,blanket,blanket.n.01,
+blazer,blazer,blazer.n.01,"sport coat,sport jacket,sports coat,sports jacket"
+blender,blender,blender.n.01,"liquidiser,liquidizer"
+blimp,blimp,blimp.n.01,
+blind,blind,blind.n.03,
+blinder,blinder,blinder.n.01,
+blindfold,blindfold,blindfold.n.01,
+block,block,block.n.01,
+blouse,blouse,blouse.n.01,
+blower,blower,blower.n.01,
+blowfish,blowfish,blowfish.n.02,
+blowgun,blowgun,blowgun.n.01,
+blowtorch,blowtorch,blowtorch.n.01,blowlamp
+blueberry,blueberry,blueberry.n.02,
+boa,boa,boa.n.01,
+boar,boar,boar.n.01,
+board,board,,
+board_game,board game,board_game.n.01,"board-game,boardgame"
+boat,boat,boat.n.01,
+bobsled,bobsled,bob.n.03,
+bok_choy,bok choy,bok_choy.n.01,"bok-choy,bokchoy"
+bolo_tie,bolo tie,bolo.n.01,"bolotie,bolo-tie"
+bologna,bologna,bologna.n.01,
+bolt,bolt,bolt.n.06,
+bomb,bomb,bomb.n.01,
+bone,bone,bone.n.01,
+bongo,bongo,bongo.n.01,
+bonnet,bonnet,bonnet.n.01,
+bonsai,bonsai,bonsai.n.01,
+book,book,book.n.01,
+bookmark,bookmark,bookmark.n.01,bookmarker
+bookshelf,bookshelf,bookshelf.n.01,
+boomerang,boomerang,boomerang.n.01,throw stick
+boot,boot,boot.n.01,
+bottle,bottle,bottle.n.01,
+bottle_opener,bottle opener,bottle_opener.n.01,"bottleopener,bottle-opener"
+boulder,boulder,boulder.n.01,bowlder
+bouquet,bouquet,bouquet.n.01,"corsage,nosegay,posy"
+bow1,bow,bow.n.01,bowknot
+bow2,bow,bow.n.04,
+bow3,bow,bow.n.08,
+bowl,bowl,bowl.n.01,
+bowler_hat,bowler hat,bowler.n.03,"bowlerhat,bowler-hat"
+bowling_ball,bowling ball,bowl.n.06,"bowling-ball,bowlingball"
+bowtie,bowtie,bowtie.n.01,
+box,box,box.n.01,
+boxer_shorts,boxer shorts,boxers.n.01,"boxer-shorts,boxershorts"
+boxing_gloves,boxing gloves,boxing_glove.n.01,"boxinggloves,boxing-gloves"
+boy,boy,boy.n.01,
+bra,bra,bra.n.01,
+brace,brace,brace.n.01,
+bracelet1,bracelet,bracelet.n.01,
+bracelet2,bracelet,bracelet.n.02,bangle
+bracket,bracket,bracket.n.04,
+braid,braid,braid.n.01,"plait,tress"
+brake,brake,brake.n.01,
+branch,branch,branch.n.02,
+brass_knuckles,brass knuckles,brass_knuckles.n.01,"brass-knuckles,brassknuckles"
+bread,bread,bread.n.01,"staff of life,breadstuff"
+breadbox,breadbox,breadbox.n.01,
+breadstick,breadstick,breadstick.n.01,bread-stick
+breakfast,breakfast,breakfast.n.01,
+breathalyzer,breathalyzer,breathalyzer.n.01,breathalyser
+brick,brick,brick.n.01,
+briefcase,briefcase,briefcase.n.01,
+broccoli,broccoli,broccoli.n.01,brassica oleracea italica
+brooch,brooch,brooch.n.01,"breastpin,broach"
+broom,broom,broom.n.01,
+brownie,brownie,brownie.n.02,
+brush,brush,brush.n.02,
+brussels_sprouts,brussels sprouts,brussels_sprouts.n.01,"brusselssprouts,brussels-sprouts"
+bubble,bubble,bubble.n.01,
+bubble_wrap,bubble wrap,,"bubble-wrap,bubblewrap"
+bucket,bucket,bucket.n.01,pail
+buckle,buckle,buckle.n.01,
+buffet,buffet,buffet.n.02,
+bug,bug,bug.n.01,
+buggy,buggy,,
+bull,bull,bull.n.01,
+bulldozer,bulldozer,bulldozer.n.01,dozer
+bullet,bullet,bullet.n.01,slug
+bulletin_board,bulletin board,bulletin_board.n.02,"bulletin-board,bulletinboard"
+bulletproof_vest,bulletproof vest,bulletproof_vest.n.01,"bulletproof-vest,bulletproofvest"
+bumper,bumper,bumper.n.02,
+bun,bun,,
+bungee,bungee,bungee.n.01,
+bunkbed,bunkbed,bunk.n.06,
+buoy,buoy,buoy.n.01,
+burner,burner,burner.n.02,
+burrito,burrito,burrito.n.01,
+bus,bus,bus.n.01,"motorbus,jitney,charabanc,autobus,passenger vehicle,double-decker,motorcoach"
+bush,bush,bush.n.01,
+butter,butter,butter.n.01,
+butterfly,butterfly,butterfly.n.01,
+button1,button,button.n.01,
+button2,button,button.n.02,
+cabbage,cabbage,cabbage.n.03,brassica oleracea
+cabinet,cabinet,cabinet.n.01,
+cable,cable,cable.n.02,transmission line
+cactus,cactus,cactus.n.01,
+cage,cage,cage.n.01,
+cake,cake,cake.n.03,
+cake_mix,cake mix,cake_mix.n.01,"cake-mix,cakemix"
+calamari,calamari,calamari.n.01,
+calculator,calculator,calculator.n.02,calculating machine
+calf1,calf,calf.n.01,
+calf2,calf,calf.n.02,
+calzone,calzone,,
+camcorder,camcorder,camcorder.n.01,
+camel,camel,camel.n.01,
+camera_lens,camera lens,camera_lens.n.01,"cameralens,camera-lens"
+camera1,camera,camera.n.01,
+camera2,camera,camera.n.02,
+camper,camper,camper.n.02,"camping bus,motor home"
+can,can,can.n.01,
+can_opener,can opener,can_opener.n.01,"can-opener,canopener"
+candelabra,candelabra,candelabra.n.01,
+candle,candle,candle.n.01,wax light
+candlestick,candlestick,candlestick.n.01,candle holder
+candy,candy,candy.n.01,confect
+candy_bar,candy bar,candy_bar.n.01,"candy-bar,candybar"
+candy_cane,candy cane,candy_cane.n.01,"candycane,candy-cane"
+cane,cane,cane.n.01,
+canister,canister,canister.n.02,cannister
+cannon,cannon,cannon.n.01,
+cannonball,cannonball,cannonball.n.01,"round shot,cannon ball"
+canoe,canoe,canoe.n.01,
+cantaloupe,cantaloupe,cantaloup.n.02,
+canvas,canvas,canvas.n.02,
+cap,cap,cap.n.02,
+cape,cape,cape.n.02,
+car,car,car.n.01,"motorcar,automobile,auto"
+car_door,car door,car_door.n.01,"cardoor,car-door"
+car_seat,car seat,car_seat.n.01,"car-seat,carseat"
+caramel,caramel,caramel.n.01,
+card,card,card.n.01,
+cardboard,cardboard,cardboard.n.01,composition board
+cardigan,cardigan,cardigan.n.01,
+cardinal,cardinal,cardinal.n.04,"cardinalis cardinalis,richmondena cardinalis"
+carousel,carousel,carousel.n.02,
+carriage,carriage,carriage.n.02,
+carrot,carrot,carrot.n.03,
+cart,cart,cart.n.01,
+cash_machine,cash machine,cash_machine.n.01,"cashmachine,cash-machine"
+cash_register,cash register,cash_register.n.01,"cash-register,cashregister"
+cashew,cashew,cashew.n.02,
+casserole,casserole,casserole.n.01,
+cassette,cassette,cassette.n.01,
+cat,cat,cat.n.01,
+catapult,catapult,catapult.n.03,"onager,trebuchet,trebucket,mangonel,arbalist,arbalest,bricole,ballista"
+caterpillar,caterpillar,caterpillar.n.01,
+catfish,catfish,catfish.n.03,siluriform fish
+cauliflower,cauliflower,cauliflower.n.02,
+caviar,caviar,caviar.n.01,caviare
+cd_player,cd player,CD_player.n.01,"cd-player,cdplayer"
+celery,celery,celery.n.02,
+cello,cello,cello.n.01,violoncello
+cellphone,cellphone,cellphone.n.01,
+cement_mixer,cement mixer,cement_mixer.n.01,"cement-mixer,cementmixer"
+centerpiece,centerpiece,centerpiece.n.02,
+centrifuge,centrifuge,centrifuge.n.01,separator
+cereal,cereal,cereal.n.03,
+chain,chain,chain.n.03,
+chainsaw,chainsaw,chainsaw.n.01,
+chair,chair,chair.n.01,
+chalice,chalice,chalice.n.01,
+chalk,chalk,chalk.n.04,
+chalkboard,chalkboard,chalkboard.n.01,
+champagne,champagne,champagne.n.01,bubbly
+chandelier,chandelier,chandelier.n.01,
+chaps,chaps,chap.n.04,
+charcoal,charcoal,charcoal.n.01,
+charger,charger,charger.n.02,
+chariot,chariot,chariot.n.02,
+checkbook,checkbook,checkbook.n.01,chequebook
+checkers,checkers,checkers.n.01,draughts
+cheese,cheese,cheese.n.01,
+cheeseburger,cheeseburger,cheeseburger.n.01,
+cheesecake,cheesecake,cheesecake.n.01,
+cheetah,cheetah,cheetah.n.01,"chetah,acinonyx jubatus"
+cherry,cherry,cherry.n.03,
+chess_piece,chess piece,chess_piece.n.01,"chess-piece,chesspiece"
+chessboard,chessboard,chessboard.n.01,chess board
+chest1,chest,breast.n.01,breast
+chest2,chest,chest.n.02,
+chick,chick,chick.n.01,
+chicken_wire,chicken wire,chicken_wire.n.01,"chickenwire,chicken-wire"
+chicken1,chicken,chicken.n.01,"poulet,volaille"
+chicken2,chicken,chicken.n.02,gallus gallus
+chickpea,chickpea,chickpea.n.03,
+chihuahua,chihuahua,chihuahua.n.03,
+chili,chili,chili.n.01,
+chime,chime,chime.n.01,
+chimney,chimney,chimney.n.01,
+chin,chin,chin.n.01,
+chinaware,chinaware,chinaware.n.01,
+chinchilla,chinchilla,chinchilla.n.03,
+chip,chip,chip.n.07,microchip
+chipmunk,chipmunk,chipmunk.n.01,
+chips,chips,chip.n.04,"potato chip,saratoga chip,crisp"
+chisel,chisel,chisel.n.01,
+chive,chive,chive.n.01,
+chocolate,chocolate,chocolate.n.02,
+chopsticks,chopsticks,chopstick.n.01,chopstick
+christmas_card,christmas card,Christmas_card.n.01,"christmascard,christmas-card"
+christmas_tree,christmas tree,Christmas_tree.n.05,"christmas-tree,christmastree"
+chute,chute,chute.n.02,"slideway,sloping trough"
+cigar,cigar,cigar.n.01,
+cigarette,cigarette,cigaret.n.01,
+cigarette_butt,cigarette butt,cigarette_butt.n.01,"cigarette-butt,cigarettebutt"
+cigarette_holder,cigarette holder,cigarette_holder.n.01,"cigarette-holder,cigaretteholder"
+cilantro,cilantro,cilantro.n.02,
+cinnamon,cinnamon,cinnamon.n.01,
+clam,clam,clam.n.01,
+clarinet,clarinet,clarinet.n.01,
+clasp,clasp,clasp.n.01,
+clay,clay,clay.n.01,
+cleat,cleat,cleat.n.01,
+cleaver,cleaver,cleaver.n.01,
+clipboard,clipboard,clipboard.n.01,
+clipper1,clipper,clipper.n.03,
+clipper2,clipper,clipper.n.04,
+cloak,cloak,cloak.n.02,
+clock,clock,clock.n.01,
+closet,closet,closet.n.03,
+clothes,clothes,clothes.n.01,
+clothesline,clothesline,clothesline.n.01,
+clothespin,clothespin,clothespin.n.01,"clothes pin,clothes peg"
+cloud,cloud,cloud.n.02,
+clove,clove,clove.n.04,
+clover,clover,clover.n.01,
+coal,coal,coal.n.01,
+coaster,coaster,coaster.n.03,
+coat,coat,coat.n.01,
+coat_rack,coat rack,coat_rack.n.01,"coat-rack,coatrack"
+cobra,cobra,cobra.n.01,
+cockatoo,cockatoo,cockatoo.n.01,
+cockroach,cockroach,cockroach.n.01,
+cocktail,cocktail,cocktail.n.01,
+coconut,coconut,coconut.n.02,cocoanut
+cocoon,cocoon,cocoon.n.01,
+coffee,coffee,coffee.n.01,
+coffee_bean,coffee bean,coffee.n.03,"coffeebean,coffee-bean"
+coffee_filter,coffee filter,coffee_filter.n.01,"coffee-filter,coffeefilter"
+coffee_pot,coffee pot,coffeepot.n.01,"coffeepot,coffee-pot"
+coffee_table,coffee table,coffee_table.n.01,"coffeetable,coffee-table"
+coffeemaker,coffeemaker,coffee_maker.n.01,
+coffin,coffin,coffin.n.01,casket
+coil,coil,coil.n.05,
+coin,coin,coin.n.01,
+coleslaw,coleslaw,coleslaw.n.01,slaw
+collar,collar,collar.n.06,
+column,column,column.n.07,
+comb,comb,comb.n.01,
+combination_lock,combination lock,combination_lock.n.01,"combinationlock,combination-lock"
+comic_book,comic book,comic_book.n.01,"comicbook,comic-book"
+compass,compass,compass.n.01,
+compost,compost,compost.n.01,
+computer,computer,computer.n.01,"information processing system,computing device,computing machine,data processor"
+computer_screen,computer screen,computer_screen.n.01,"computer-screen,computerscreen"
+confetti,confetti,confetti.n.01,
+contact_lens,contact lens,contact.n.09,"contact-lens,contactlens"
+container,container,container.n.01,
+cooker,cooker,cooker.n.01,
+cookie,cookie,cookie.n.01,
+cookie_cutter,cookie cutter,cookie_cutter.n.01,"cookiecutter,cookie-cutter"
+cookie_sheet,cookie sheet,cookie_sheet.n.01,"cookiesheet,cookie-sheet"
+cooler,cooler,cooler.n.01,ice chest
+coop,coop,coop.n.01,
+copier,copier,copier.n.01,
+coral,coral,coral.n.04,
+cord,cord,cord.n.03,
+cordon_bleu,cordon bleu,,"cordon-bleu,cordonbleu"
+cork,cork,cork.n.03,
+corkboard,corkboard,corkboard.n.01,
+corkscrew,corkscrew,corkscrew.n.01,bottle screw
+corn,corn,corn.n.01,"maize,zea mays"
+cornbread,cornbread,cornbread.n.01,
+cornhusk,cornhusk,cornhusk.n.01,
+cornmeal,cornmeal,cornmeal.n.01,indian meal
+cornucopia,cornucopia,cornucopia.n.01,
+corsage,corsage,,
+corset,corset,corset.n.01,stays
+costume,costume,costume.n.02,
+cot,cot,cot.n.03,camp bed
+cotton_candy,cotton candy,cotton_candy.n.01,"cotton-candy,cottoncandy"
+couch,couch,couch.n.01,
+cougar,cougar,cougar.n.01,"puma,felis concolor,mountain lion"
+counter,counter,counter.n.01,
+coverall,coverall,coverall.n.01,
+cow,cow,cow.n.01,moo-cow
+coyote,coyote,coyote.n.01,"canis latrans,brush wolf,prairie wolf"
+crab,crab,crab.n.01,
+cracker,cracker,cracker.n.01,
+cranberry,cranberry,cranberry.n.02,
+crane,crane,crane.n.04,
+crank,crank,crank.n.04,
+crate,crate,crate.n.01,
+crayfish,crayfish,crayfish.n.03,crawdaddy
+crayon,crayon,crayon.n.01,
+cream,cream,cream.n.03,emollient
+cream_cheese,cream cheese,cream_cheese.n.01,"creamcheese,cream-cheese"
+credit_card,credit card,credit_card.n.01,"creditcard,credit-card"
+creme_brulee,creme brulee,creme_brulee.n.01,"creme-brulee,cremebrulee"
+crepe,crepe,crepe.n.02,
+crib,crib,crib.n.01,
+croissant,croissant,croissant.n.01,
+cross,cross,cross.n.01,
+crossbow,crossbow,crossbow.n.01,
+crouton,crouton,crouton.n.01,
+crow,crow,crow.n.01,
+crowbar,crowbar,crowbar.n.01,"wrecking bar,pry,pry bar"
+crown,crown,crown.n.03,
+crucifix,crucifix,crucifix.n.01,"rood-tree,rood"
+cruise_ship,cruise ship,cruise_ship.n.01,"cruise-ship,cruiseship"
+crumb,crumb,crumb.n.03,
+crutch,crutch,crutch.n.01,
+crystal_ball,crystal ball,crystal_ball.n.01,"crystal-ball,crystalball"
+crystal1,crystal,crystal.n.01,
+crystal2,crystal,crystal.n.03,
+cuckoo_clock,cuckoo clock,cuckoo_clock.n.01,"cuckooclock,cuckoo-clock"
+cucumber,cucumber,cucumber.n.02,cuke
+cufflink,cufflink,cufflink.n.01,
+cummerbund,cummerbund,cummerbund.n.01,
+cup,cup,cup.n.01,
+cupcake,cupcake,cupcake.n.01,
+curb,curb,curb.n.01,"curbing,kerb"
+curling_iron,curling iron,curling_iron.n.01,"curling-iron,curlingiron"
+curry,curry,curry.n.01,
+curtain,curtain,curtain.n.01,"drape,drapery"
+cushion,cushion,cushion.n.03,
+cutting_board,cutting board,cutting_board.n.01,"cuttingboard,cutting-board"
+cymbal,cymbal,cymbal.n.01,
+dagger,dagger,dagger.n.01,
+daisy,daisy,daisy.n.01,
+dalmatian,dalmatian,dalmatian.n.01,
+dandelion,dandelion,dandelion.n.01,blowball
+dart,dart,dart.n.01,
+dartboard,dartboard,dartboard.n.01,dart board
+dashboard,dashboard,dashboard.n.02,
+deer,deer,deer.n.01,cervid
+defibrillator,defibrillator,defibrillator.n.01,
+denture,denture,denture.n.01,dental plate
+deodorant,deodorant,deodorant.n.01,deodourant
+desk,desk,desk.n.01,
+dessert,dessert,dessert.n.01,afters
+detonator,detonator,detonator.n.01,detonating device
+dial,dial,dial.n.04,
+diamond,diamond,diamond.n.01,
+diaper,diaper,diaper.n.01,nappy
+dice,dice,dice.n.01,
+dip,dip,dip.n.04,
+dirt_bike,dirt bike,dirt_bike.n.01,"dirt-bike,dirtbike"
+dish,dish,dish.n.01,
+dishrag,dishrag,dishrag.n.01,dishcloth
+dishwasher,dishwasher,dishwasher.n.01,"dishwashing machine,dish washer"
+dishwashing_liquid,dishwashing liquid,dishwashing_liquid.n.01,"dishwashing-liquid,dishwashingliquid"
+diskette,diskette,diskette.n.01,"floppy disk,floppy"
+diving_board,diving board,diving_board.n.01,"diving-board,divingboard"
+dog,dog,dog.n.01,canis familiaris
+dogfood,dogfood,dog_food.n.01,
+doghouse,doghouse,doghouse.n.01,
+doily,doily,doily.n.01,"doyley,doyly"
+doll,doll,doll.n.01,
+dollhouse,dollhouse,dollhouse.n.02,
+dolly,dolly,dolly.n.02,
+dolphin,dolphin,dolphin.n.02,
+domino,domino,domino.n.03,"half mask,eye mask"
+donkey,donkey,donkey.n.02,
+donut,donut,donut.n.01,
+door,door,door.n.01,
+doorbell,doorbell,doorbell.n.01,buzzer
+doorhandle,doorhandle,,
+doorknob,doorknob,doorknob.n.01,doorhandle
+doorknocker,doorknocker,doorknocker.n.01,
+doormat,doormat,doormat.n.02,welcome mat
+doorstop,doorstop,doorstop.n.01,doorstopper
+dough,dough,dough.n.01,
+dragonfly,dragonfly,dragonfly.n.01,"skeeter hawk,mosquito hawk,snake feeder,snake doctor"
+drain,drain,drain.n.03,"drainpipe,waste pipe"
+drawer,drawer,drawer.n.01,
+dreidel,dreidel,,
+dress,dress,dress.n.01,
+dresser,dresser,dresser.n.01,
+drill,drill,drill.n.01,
+drink,drink,drink.n.01,
+drum,drum,drum.n.01,"membranophone,tympan"
+drumstick,drumstick,drumstick.n.02,
+dryer,dryer,dryer.n.01,
+duck,duck,duck.n.01,
+duckling,duckling,duckling.n.02,
+duct,duct,duct.n.03,
+duct_tape,duct tape,duct_tape.n.01,"ducttape,duct-tape"
+duffel_bag,duffel bag,duffel.n.01,"duffelbag,duffel-bag"
+dumbbell,dumbbell,dumbbell.n.01,
+dumbwaiter,dumbwaiter,dumbwaiter.n.01,food elevator
+dumpling,dumpling,dumpling.n.01,dumplings
+dumpster,dumpster,Dumpster.n.01,
+duster,duster,duster.n.03,
+dustpan,dustpan,dustpan.n.02,
+dynamite,dynamite,dynamite.n.01,
+eagle,eagle,eagle.n.01,bird of jove
+ear,ear,ear.n.01,
+earplug,earplug,earplug.n.02,
+earring,earring,earring.n.01,
+earwig,earwig,earwig.n.01,
+easel,easel,easel.n.01,
+easter_egg,easter egg,Easter_egg.n.02,"easteregg,easter-egg"
+eclair,eclair,eclair.n.01,
+eel,eel,eel.n.02,
+egg,egg,egg.n.02,eggs
+egg_roll,egg roll,egg_roll.n.01,"eggroll,egg-roll"
+eggbeater,eggbeater,eggbeater.n.02,eggwhisk
+eggnog,eggnog,eggnog.n.01,
+eggplant,eggplant,eggplant.n.01,
+eggshell,eggshell,eggshell.n.01,
+elbow,elbow,elbow.n.01,"articulatio cubiti,cubitus,cubital joint"
+electric_chair,electric chair,electric_chair.n.01,"electricchair,electric-chair"
+elephant,elephant,elephant.n.01,
+emerald,emerald,emerald.n.01,
+enchilada,enchilada,enchilada.n.01,
+engine,engine,engine.n.01,
+envelope,envelope,envelope.n.01,
+eraser,eraser,eraser.n.01,
+espresso,espresso,espresso.n.01,
+exerciser,exerciser,exerciser.n.01,
+exhaust_pipe,exhaust pipe,exhaust_pipe.n.01,"exhaust-pipe,exhaustpipe"
+extinguisher,extinguisher,extinguisher.n.01,
+eye,eye,eye.n.01,"oculus,optic"
+eye_patch,eye patch,eyepatch.n.01,"eyepatch,eye-patch"
+eyedropper,eyedropper,eye_dropper.n.01,
+eyeliner,eyeliner,eyeliner.n.01,
+eyepiece,eyepiece,eyepiece.n.01,ocular
+face,face,face.n.01,
+face_mask,face mask,face_mask.n.01,"facemask,face-mask"
+fan,fan,fan.n.01,
+fast_food,fast food,fast_food.n.01,"fastfood,fast-food"
+faucet,faucet,faucet.n.01,
+feather,feather,feather.n.01,plumage
+fence,fence,fence.n.01,fencing
+fencepost,fencepost,,
+fern,fern,fern.n.01,
+ferret,ferret,ferret.n.02,
+ferris_wheel,ferris wheel,Ferris_wheel.n.01,"ferris-wheel,ferriswheel"
+ferry,ferry,ferry.n.01,ferryboat
+fig,fig,fig.n.03,
+figurine,figurine,figurine.n.01,statuette
+file1,file,file.n.04,
+file2,file,,
+filing_cabinet,filing cabinet,filing_cabinet.n.01,"filing-cabinet,filingcabinet"
+film,film,film.n.03,
+filter,filter,filter.n.01,
+finger,finger,finger.n.01,
+fingerprint,fingerprint,fingerprint.n.01,
+fire,fire,fire.n.04,
+fire_alarm,fire alarm,fire_alarm.n.01,"firealarm,fire-alarm"
+fire_hydrant,fire hydrant,fire_hydrant.n.01,"fire-hydrant,firehydrant"
+fire_pit,fire pit,,"fire-pit,firepit"
+firecracker,firecracker,firecracker.n.01,
+fireplace,fireplace,fireplace.n.01,hearth
+firetruck,firetruck,fire_truck.n.01,
+firewood,firewood,firewood.n.01,
+fireworks,fireworks,firework.n.01,"firework,pyrotechnic"
+first-aid_kit,first-aid kit,first-aid_kit.n.01,"firstaidkit,first aid kit,first-aid-kit"
+fish,fish,fish.n.01,
+fishbowl,fishbowl,fishbowl.n.02,
+fishhook,fishhook,fishhook.n.01,
+fishing_pole,fishing pole,fishing_pole.n.01,"fishing-pole,fishingpole"
+fishnet_stockings,fishnet stockings,,"fishnet-stockings,fishnetstockings"
+flag,flag,flag.n.01,
+flagpole,flagpole,flagpole.n.02,
+flamethrower,flamethrower,flamethrower.n.01,
+flamingo,flamingo,flamingo.n.01,
+flan,flan,flan.n.01,
+flashbulb,flashbulb,flashbulb.n.01,
+flashlight,flashlight,flashlight.n.01,
+flask,flask,flask.n.01,
+flatiron,flatiron,,
+flip_flop,flip-flop,flip-flop.n.02,"flip flop,flipflop"
+flipper,flipper,flipper.n.01,
+float,float,float.n.06,
+floss,floss,floss.n.02,
+flour,flour,flour.n.01,
+flower,flower,flower.n.01,
+flute,flute,flute.n.01,
+fly,fly,fly.n.01,
+flypaper,flypaper,flypaper.n.01,
+flyswatter,flyswatter,flyswat.n.01,
+foam,foam,foam.n.02,
+folder,folder,folder.n.02,
+fondue,fondue,fondu.n.02,
+food_processor,food processor,food_processor.n.01,"foodprocessor,food-processor"
+foot,foot,foot.n.01,pes
+football,football,football.n.02,
+football_helmet,football helmet,football_helmet.n.01,"football-helmet,footballhelmet"
+footbath,footbath,footbath.n.01,
+footprint,footprint,footprint.n.01,footmark
+footrest,footrest,,
+fork,fork,fork.n.01,
+forklift,forklift,forklift.n.01,
+fossil,fossil,fossil.n.02,
+fountain_pen,fountain pen,fountain_pen.n.01,"fountain-pen,fountainpen"
+fox,fox,fox.n.01,
+frame,frame,framing.n.02,
+freezer,freezer,freezer.n.01,
+french_fries,french fries,french_fries.n.01,"french-fries,frenchfries"
+french_horn,french horn,French_horn.n.01,"frenchhorn,french-horn"
+frisbee,frisbee,Frisbee.n.01,
+frog,frog,frog.n.01,"toad,salientian,batrachian,anuran"
+fruit,fruit,fruit.n.01,
+fruitcake,fruitcake,fruitcake.n.02,
+fudge,fudge,fudge.n.01,
+fungus,fungus,fungus.n.01,
+funnel,funnel,funnel.n.02,
+fur_coat,fur coat,fur_coat.n.01,"furcoat,fur-coat"
+furnace,furnace,furnace.n.01,
+fuse,fuse,fuse.n.01,
+gallows,gallows,gallows.n.01,
+game,game,game.n.01,
+garbage,garbage,garbage.n.03,
+garbage_truck,garbage truck,garbage_truck.n.01,"garbage-truck,garbagetruck"
+gargoyle,gargoyle,gargoyle.n.02,
+garlic,garlic,garlic.n.02,ail
+garter,garter,garter.n.01,
+gas_mask,gas mask,gasmask.n.01,"gasmask,gas-mask,gas helmet"
+gasket,gasket,gasket.n.01,
+gate,gate,gate.n.01,
+gauge,gauge,CPU.n.01,
+gauze,gauze,gauze.n.01,
+gavel,gavel,gavel.n.01,
+gazelle,gazelle,gazelle.n.01,
+gear,gear,gear.n.01,"cogwheel,geared wheel"
+gearshift,gearshift,gearshift.n.01,"gearstick,gear lever"
+gel,gel,gel.n.01,
+gem,gem,gem.n.02,gemstone
+generator,generator,generator.n.02,
+gift,gift,gift.n.01,
+ginger,ginger,ginger.n.03,gingerroot
+gingerbread_man,gingerbread man,gingerbread_man.n.01,"gingerbreadman,gingerbread-man"
+giraffe,giraffe,giraffe.n.01,"giraffa camelopardalis,camelopard"
+girl,girl,girl.n.02,
+glass,glass,glass.n.02,
+glasses,glasses,glasses.n.01,
+globe,globe,globe.n.03,
+glove,glove,glove.n.02,
+glue,glue,glue.n.01,
+go-kart,go-kart,go-kart.n.01,"go kart,gokart"
+goalpost,goalpost,goalpost.n.01,
+goat,goat,goat.n.01,caprine animal
+goblet,goblet,goblet.n.01,
+goggles,goggles,goggles.n.01,
+gold,gold,gold.n.03,"atomic number 79,au"
+goldfish,goldfish,goldfish.n.01,carassius auratus
+golf_cart,golf cart,golf_cart.n.01,"golfcart,golf-cart"
+golf_club,golf club,golf-club.n.01,"golf-club,golfclub"
+gondola,gondola,gondola.n.02,
+gong,gong,gong.n.01,tam-tam
+goose,goose,goose.n.01,
+gopher,gopher,gopher.n.03,
+gorilla,gorilla,gorilla.n.01,
+gourd,gourd,gourd.n.02,
+graffiti,graffiti,graffiti.n.01,
+grain,grain,grain.n.07,caryopsis
+gramophone,gramophone,gramophone.n.01,
+granite,granite,granite.n.01,
+granola,granola,granola.n.01,
+grape,grape,grape.n.01,
+grapefruit,grapefruit,grapefruit.n.02,
+grapevine,grapevine,grape.n.02,grape vine
+grass,grass,grass.n.01,
+grasshopper,grasshopper,grasshopper.n.01,
+grate,grate,grate.n.03,grating
+grater,grater,grater.n.01,
+gravel,gravel,gravel.n.01,crushed rock
+gravestone,gravestone,gravestone.n.01,tombstone
+gravy,gravy,gravy.n.01,
+green_beans,green beans,green_bean.n.01,"greenbeans,green-beans"
+grenade,grenade,grenade.n.01,
+grill,grill,grill.n.02,
+grille,grille,grille.n.02,
+grinder,grinder,grinder.n.03,
+grits,grits,grits.n.01,
+groundhog,groundhog,groundhog.n.01,"marmota monax,woodchuck"
+guacamole,guacamole,guacamole.n.01,
+guardrail,guardrail,guardrail.n.01,
+guillotine,guillotine,guillotine.n.02,
+guinea_pig,guinea pig,guinea_pig.n.02,"guineapig,guinea-pig"
+guitar,guitar,guitar.n.01,
+gum,gum,gum.n.01,
+gumball,gumball,gum_ball.n.01,
+gumdrop,gumdrop,gumdrop.n.01,
+gun,gun,gun.n.01,
+gurney,gurney,gurney.n.01,
+gutter,gutter,gutter.n.01,
+gyro,gyro,gyro.n.01,
+gyroscope,gyroscope,gyroscope.n.01,
+hail,hail,hail.n.01,
+hair,hair,hair.n.01,
+hairbrush,hairbrush,hairbrush.n.01,
+hairdryer,hairdryer,hair_dryer.n.01,
+hairnet,hairnet,hairnet.n.01,
+hairpin,hairpin,hairpin.n.01,
+hairspray,hairspray,hair_spray.n.01,
+ham,ham,ham.n.01,"jambon,gammon"
+hamburger,hamburger,hamburger.n.01,beefburger
+hammer,hammer,hammer.n.02,
+hammock,hammock,hammock.n.02,
+hamster,hamster,hamster.n.01,
+hand,hand,hand.n.01,"mitt,manus"
+handbrake,handbrake,hand_brake.n.01,
+handcuff,handcuff,handcuff.n.01,"handlock,manacle"
+handkerchief,handkerchief,handkerchief.n.01,"hankey,hankie,hanky"
+handle,handle,handle.n.01,handgrip
+handlebar,handlebar,handlebar.n.01,
+handprint,handprint,,
+hanger,hanger,hanger.n.02,
+hard_disk,hard disk,hard_disk.n.01,"harddisk,hard-disk"
+harmonica,harmonica,harmonica.n.01,"mouth organ,mouth harp"
+harness,harness,harness.n.01,
+harp,harp,harp.n.01,
+hash,hash,hash.n.01,
+hat,hat,hat.n.01,chapeau
+hatbox,hatbox,hatbox.n.01,
+hatchet,hatchet,hatchet.n.02,
+hawk,hawk,hawk.n.01,
+hay,hay,hay.n.01,
+headband,headband,headband.n.01,
+headdress,headdress,headdress.n.01,headgear
+headlamp,headlamp,,
+headlight,headlight,headlight.n.01,headlamp
+headphones,headphones,headphone.n.01,
+headrest,headrest,headrest.n.01,head restraint
+headscarf,headscarf,headscarf.n.01,
+headset,headset,headset.n.01,
+hearing_aid,hearing aid,hearing_aid.n.01,"hearing-aid,hearingaid"
+hearse,hearse,hearse.n.01,
+heater,heater,heater.n.01,warmer
+hedge,hedge,hedge.n.01,hedgerow
+hedgehog,hedgehog,hedgehog.n.02,"erinaceus europaeus,erinaceus europeaeus"
+helicopter,helicopter,helicopter.n.01,"whirlybird,eggbeater"
+helmet,helmet,helmet.n.02,
+highchair,highchair,highchair.n.01,feeding chair
+highlighter,highlighter,highlighter.n.02,
+hinge,hinge,hinge.n.01,flexible joint
+hip,hip,hip.n.01,
+hippopotamus,hippopotamus,hippopotamus.n.01,river horse
+hobbyhorse,hobbyhorse,,
+hockey_stick,hockey stick,hockey_stick.n.01,"hockeystick,hockey-stick"
+hoe,hoe,hoe.n.01,
+hole,hole,hole.n.01,
+holster,holster,holster.n.01,
+home_plate,home plate,home.n.04,"homeplate,home-plate"
+honey,honey,honey.n.01,
+honeycomb,honeycomb,honeycomb.n.01,
+honeypot,honeypot,honeypot.n.01,"protea cynaroides,king protea"
+hood,hood,hood.n.08,
+hoodie,hoodie,,
+hook1,hook,hook.n.01,
+hook2,hook,hook.n.05,
+hookah,hookah,hookah.n.01,"sheesha,nargileh,calean,hubbly-bubbly,shisha,narghile,hubble-bubble,water pipe,kalian,chicha"
+hopscotch,hopscotch,hopscotch.n.01,
+horn,horn,horn.n.09,
+horse,horse,horse.n.01,equus caballus
+horseshoe,horseshoe,horseshoe.n.02,
+hose,hose,hose.n.03,hosepipe
+hot_chocolate,hot chocolate,hot_chocolate.n.01,"hotchocolate,hot-chocolate"
+hot_tub,hot tub,hot_tub.n.01,"hot-tub,hottub"
+hot-air_balloon,hot-air balloon,hot-air_balloon.n.01,"hot-air-balloon,hotairballoon,hot air balloon"
+hot-water_bottle,hot-water bottle,hot-water_bottle.n.01,"hot water bottle,hot-water-bottle,hotwaterbottle"
+hotdog,hotdog,hotdog.n.02,red hot
+hotplate,hotplate,hotplate.n.01,
+hourglass,hourglass,hourglass.n.01,
+hovercraft,hovercraft,hovercraft.n.01,ground-effect machine
+hubcap,hubcap,hubcap.n.01,
+hula_hoop,hula hoop,,"hula-hoop,hulahoop"
+hummingbird,hummingbird,hummingbird.n.01,
+hummus,hummus,hummus.n.01,"humous,hommos,hoummos"
+humvee,humvee,Humvee.n.01,
+hydrant,hydrant,hydrant.n.02,
+hyena,hyena,hyena.n.01,hyaena
+ice,ice,ice.n.01,
+ice_cream,ice cream,ice_cream.n.01,"ice-cream,icecream"
+ice_cube,ice cube,ice_cube.n.01,"ice-cube,icecube"
+ice_pack,ice pack,ice_pack.n.01,"icepack,ice-pack"
+ice-cream_cone,ice-cream cone,ice-cream_cone.n.01,"icecreamcone,ice-cream-cone,ice cream cone"
+icemaker,icemaker,ice_maker.n.01,
+icepick,icepick,icepick.n.01,ice pick
+iceskate,iceskate,ice_skate.n.01,ice skate
+icicle,icicle,icicle.n.01,
+iguana,iguana,iguana.n.01,
+incense,incense,incense.n.01,
+incubator,incubator,incubator.n.01,brooder
+inhaler,inhaler,inhaler.n.01,
+ink,ink,ink.n.01,
+inkwell,inkwell,inkwell.n.01,inkstand
+insole,insole,insole.n.01,innersole
+iron,iron,iron.n.04,
+ironing_board,ironing board,ironing_board.n.01,"ironing-board,ironingboard"
+ivy,ivy,ivy.n.01,hedera helix
+jack,jack,jack.n.09,
+jacket,jacket,jacket.n.01,
+jackhammer,jackhammer,jackhammer.n.01,
+jalapeno,jalapeno,jalapeno.n.02,
+jam,jam,jam.n.01,
+jar,jar,jar.n.01,
+javelin,javelin,javelin.n.02,
+jeans,jeans,jean.n.01,"blue jean,denim,jean"
+jeep,jeep,jeep.n.01,landrover
+jelly_bean,jelly bean,jelly_bean.n.01,"jellybean,jelly-bean"
+jellyfish,jellyfish,jellyfish.n.02,
+jersey,jersey,,
+jet,jet,jet.n.01,jet-propelled plane
+jetski,jetski,,
+jewel,jewel,jewel.n.01,precious stone
+jewelry,jewelry,jewelry.n.01,jewellery
+jigsaw_puzzle,jigsaw puzzle,jigsaw_puzzle.n.01,"jigsawpuzzle,jigsaw-puzzle"
+joystick,joystick,joystick.n.02,
+jug,jug,jug.n.01,
+juice,juice,juice.n.01,
+juicer1,juicer,juicer.n.02,
+juicer2,juicer,,
+jukebox,jukebox,jukebox.n.01,nickelodeon
+jump_rope,jump rope,jump_rope.n.01,"jump-rope,jumprope"
+jumpsuit,jumpsuit,jumpsuit.n.01,
+kale,kale,kale.n.02,"kail,borecole,cole,brassica oleracea acephala,colewort"
+kaleidoscope,kaleidoscope,kaleidoscope.n.02,
+kangaroo,kangaroo,kangaroo.n.01,
+kayak,kayak,kayak.n.01,
+kazoo,kazoo,kazoo.n.01,
+kebab,kebab,kebab.n.01,
+keg,keg,keg.n.02,
+ketchup,ketchup,ketchup.n.01,
+kettle,kettle,kettle.n.01,
+key,key,key.n.01,
+keyboard,keyboard,keyboard.n.01,
+keyhole,keyhole,keyhole.n.01,
+kilt,kilt,kilt.n.01,
+kimono,kimono,kimono.n.01,
+kite,kite,kite.n.03,
+kitten,kitten,kitten.n.01,
+kiwi,kiwi,kiwi.n.02,
+knee,knee,knee.n.01,"articulatio genus,genu"
+kneepad,kneepad,knee_pad.n.01,
+knife,knife,knife.n.01,
+knitting,knitting,knit.n.03,knitwork
+knitting_needle,knitting needle,knitting_needle.n.01,"knitting-needle,knittingneedle"
+knob,knob,knob.n.02,
+knot,knot,knot.n.02,
+koala,koala,koala.n.01,"kangaroo bear,phascolarctos cinereus,native bear"
+lab_coat,lab coat,lab_coat.n.01,"lab-coat,labcoat"
+ladder,ladder,ladder.n.01,
+ladle,ladle,ladle.n.01,
+ladybug,ladybug,ladybug.n.01,"ladybird beetle,ladybeetle,lady beetle,ladybird"
+lamb,lamb,lamb.n.01,
+lamb_chop,lamb chop,lamb-chop.n.01,"lambchop,lamb-chop"
+lamp,lamp,lamp.n.02,
+lamppost,lamppost,lamppost.n.01,
+lampshade,lampshade,lampshade.n.01,lamp shade
+landmine,landmine,land_mine.n.01,
+lantern,lantern,lantern.n.01,
+lanyard,lanyard,lanyard.n.02,
+laptop,laptop,laptop.n.01,
+lasagna,lasagna,lasagna.n.01,lasagne
+laser_pointer,laser pointer,,"laserpointer,laser-pointer"
+latch,latch,latch.n.02,
+latte,latte,latte.n.01,
+laundry_basket,laundry basket,laundry_basket.n.01,"laundrybasket,laundry-basket"
+lava,lava,lava.n.01,
+lavender,lavender,lavender.n.01,
+lawnmower,lawnmower,lawn_mower.n.01,
+leaf,leaf,leaf.n.01,"leafage,foliage"
+leash,leash,leash.n.01,tether
+lectern,lectern,lectern.n.01,reading desk
+leech,leech,leech.n.01,"bloodsucker,hirudinean"
+leek,leek,leek.n.01,"allium porrum,scallion"
+leg,leg,leg.n.01,
+leggings,leggings,legging.n.01,"legging,leging,leg covering"
+lego,lego,Lego.n.01,
+lemon,lemon,lemon.n.01,
+lemonade,lemonade,lemonade.n.01,
+lens,lens,lens.n.01,lense
+leopard,leopard,leopard.n.02,panthera pardus
+leotard,leotard,leotard.n.01,"unitard,cat suit,body suit"
+letter_opener,letter opener,letter_opener.n.01,"letter-opener,letteropener"
+lettuce,lettuce,lettuce.n.03,
+license_plate,license plate,license_plate.n.01,"licenseplate,license-plate"
+licorice,licorice,licorice.n.02,
+lid,lid,lid.n.02,
+life_jacket,life jacket,life_jacket.n.01,"life-jacket,lifejacket"
+lifesaver,lifesaver,lifesaver.n.02,
+light_switch,light switch,,"light-switch,lightswitch"
+lightbulb,lightbulb,lightbulb.n.01,
+lighter,lighter,light.n.14,
+lightning_bug,lightning bug,lightning_bug.n.01,"lightning-bug,lightningbug"
+lime,lime,lime.n.06,
+limousine,limousine,limo.n.01,
+lingerie,lingerie,lingerie.n.01,intimate apparel
+lion,lion,lion.n.01,"panthera leo,king of beasts"
+lip_balm,lip balm,lip_balm.n.01,"lipbalm,lip-balm"
+lip_gloss,lip gloss,,"lip-gloss,lipgloss"
+lipstick,lipstick,lipstick.n.01,lip rouge
+lizard,lizard,lizard.n.01,
+llama,llama,llama.n.01,
+lobster,lobster,lobster.n.02,
+lock,lock,lock.n.01,
+locker,locker,locker.n.01,
+locket,locket,locket.n.01,
+log,log,log.n.01,
+loincloth,loincloth,loincloth.n.01,
+lollipop,lollipop,lollipop.n.02,all-day sucker
+loom,loom,loom.n.01,
+loveseat,loveseat,loveseat.n.01,
+luggage,luggage,luggage.n.01,
+lumber,lumber,lumber.n.01,timber
+lunchbox,lunchbox,,
+macadamia,macadamia,macadamia_nut.n.02,
+macaroni,macaroni,macaroni.n.02,
+machete,machete,machete.n.01,"panga,matchet"
+machine_gun,machine gun,machine_gun.n.01,"machinegun,machine-gun"
+maggot,maggot,maggot.n.01,
+magnet,magnet,magnet.n.01,
+magnifier,magnifier,magnifier.n.01,
+magnifying_glass,magnifying glass,magnifying_glass.n.01,"magnifyingglass,magnifying-glass"
+mail,mail,mail.n.04,
+mailbox,mailbox,mailbox.n.01,
+makeup,makeup,makeup.n.01,
+mallet,mallet,mallet.n.03,
+man,man,man.n.01,adult male
+manatee,manatee,manatee.n.01,trichechus manatus
+mandolin,mandolin,mandolin.n.01,
+mango,mango,mango.n.02,
+manhole,manhole,manhole.n.01,
+mannequin,mannequin,mannequin.n.02,
+mantle,mantle,mantle.n.05,
+map,map,map.n.01,
+maple_syrup,maple syrup,maple_syrup.n.01,"maple-syrup,maplesyrup"
+marble,marble,marble.n.02,
+margarita,margarita,margarita.n.01,
+marijuana,marijuana,marijuana.n.01,"ganja,marihuana,cannabis sativa"
+marker,marker,marker.n.03,
+marmalade,marmalade,marmalade.n.01,
+marshmallow,marshmallow,marshmallow.n.01,
+mascara,mascara,mascara.n.01,
+mashed_potato,mashed potato,mashed_potato.n.01,"mashed-potato,mashedpotato"
+mask,mask,mask.n.01,
+mast,mast,mast.n.01,
+mat,mat,mat.n.01,
+match,match,match.n.01,
+matchbox,matchbox,matchbox.n.01,
+mattress,mattress,mattress.n.01,
+measuring_cup,measuring cup,measuring_cup.n.01,"measuringcup,measuring-cup"
+meat,meat,meat.n.01,
+meat_grinder,meat grinder,meat_grinder.n.01,"meatgrinder,meat-grinder"
+meatball,meatball,meatball.n.01,
+meatloaf,meatloaf,meatloaf.n.01,
+medal,medal,medal.n.01,
+meerkat,meerkat,meerkat.n.01,mierkat
+megaphone,megaphone,megaphone.n.01,
+melon,melon,melon.n.01,
+memory_stick,memory stick,,"memory-stick,memorystick"
+metal_detector,metal detector,metal_detector.n.01,"metal-detector,metaldetector"
+metronome,metronome,metronome.n.01,
+microphone,microphone,microphone.n.01,mike
+microscope,microscope,microscope.n.01,
+microwave,microwave,microwave.n.02,
+milk,milk,milk.n.01,
+milkshake,milkshake,milkshake.n.01,milk shake
+minivan,minivan,minivan.n.01,
+mint,mint,mint.n.04,
+mirror,mirror,mirror.n.01,
+missile,missile,missile.n.01,
+mistletoe,mistletoe,mistletoe.n.02,viscum album
+mitten,mitten,mitten.n.01,
+mixer,mixer,mixer.n.04,
+moccasin,moccasin,moccasin.n.01,mocassin
+modem,modem,modem.n.01,
+mold1,mold,mold.n.02,
+mold2,mold,mold.n.05,
+mole,mole,mole.n.06,
+money,money,money.n.01,
+mongoose,mongoose,mongoose.n.01,
+monkey,monkey,monkey.n.01,
+moose,moose,moose.n.01,
+mop,mop,mop.n.01,
+mosquito,mosquito,mosquito.n.01,
+mosquito_net,mosquito net,mosquito_net.n.01,"mosquitonet,mosquito-net"
+moss,moss,moss.n.01,
+moth,moth,moth.n.01,
+motherboard,motherboard,mother_board.n.01,
+motorcycle,motorcycle,motorcycle.n.01,bike
+mouse1,mouse,mouse.n.01,
+mouse2,mouse,mouse.n.04,
+mousepad,mousepad,mousepad.n.01,mouse mat
+mousetrap,mousetrap,mousetrap.n.01,
+mousse,mousse,mousse.n.01,
+mouth,mouth,mouth.n.02,
+mouthpiece,mouthpiece,mouthpiece.n.04,gumshield
+mud,mud,mud.n.01,
+muff,muff,muff.n.01,
+muffin,muffin,muffin.n.01,
+mug,mug,mug.n.04,
+mulberry,mulberry,mulberry.n.02,
+mulch,mulch,mulch.n.01,
+mullet,mullet,,
+mushroom,mushroom,mushroom.n.03,
+music_box,music box,music_box.n.01,"musicbox,music-box"
+mussel,mussel,mussel.n.02,
+mustache,mustache,mustache.n.01,moustache
+mustard,mustard,mustard.n.02,
+nacho,nacho,nacho.n.01,
+nail,nail,nail.n.02,
+nail_clippers,nail clippers,,"nail-clippers,nailclippers"
+nail_file,nail file,nailfile.n.01,"nail-file,nailfile"
+nail_polish,nail polish,nail_polish.n.01,"nailpolish,nail-polish"
+napkin,napkin,napkin.n.01,serviette
+napkin_ring,napkin ring,napkin_ring.n.01,"napkin-ring,napkinring"
+navel,navel,navel.n.01,"omphalos,omphalus,umbilicus,bellybutton,belly button"
+neck,neck,neck.n.01,cervix
+necklace,necklace,necklace.n.01,
+needle,needle,needle.n.03,
+nest,nest,nest.n.01,
+net,net,net.n.06,meshwork
+nightshirt,nightshirt,nightshirt.n.01,
+nightstand,nightstand,,
+noisemaker,noisemaker,noisemaker.n.01,
+noodle,noodle,noodle.n.01,
+noose,noose,noose.n.02,
+nose,nose,nose.n.01,olfactory organ
+notebook,notebook,notebook.n.01,
+notepad,notepad,notepad.n.01,
+nut,nut,nut.n.01,
+nutcracker,nutcracker,nutcracker.n.01,
+oar,oar,oar.n.01,
+oatmeal,oatmeal,oatmeal.n.01,burgoo
+octopus,octopus,octopus.n.02,
+odometer,odometer,odometer.n.01,"milometer,mileometer,hodometer"
+oil,oil,oil.n.04,
+oilcan,oilcan,oilcan.n.01,
+okra,okra,okra.n.01,
+olive,olive,olive.n.01,
+omelet,omelet,omelet.n.01,omelette
+onion,onion,onion.n.01,
+orange,orange,orange.n.01,
+orange_rind,orange rind,orange_rind.n.01,"orangerind,orange-rind"
+orangutan,orangutan,orang.n.01,
+orchid,orchid,orchid.n.01,orchidaceous plant
+organ,organ,organ.n.05,
+origami,origami,origami.n.01,
+ostrich,ostrich,ostrich.n.02,struthio camelus
+otter,otter,otter.n.02,
+ottoman,ottoman,ottoman.n.01,osmanli
+outfit,outfit,outfit.n.02,getup
+outlet,outlet,outlet.n.02,
+oven,oven,oven.n.01,
+overalls,overalls,overall.n.01,overall
+owl,owl,owl.n.01,"bird of minerva,bird of night"
+oyster,oyster,oyster.n.01,
+pacifier,pacifier,pacifier.n.03,
+paddle,paddle,paddle.n.04,
+padlock,padlock,padlock.n.01,
+paint,paint,paint.n.01,
+paintbrush,paintbrush,paintbrush.n.01,
+painting,painting,painting.n.01,
+pajamas,pajamas,pajama.n.02,"jammies,pj's"
+palette,palette,palette.n.02,
+pallet,pallet,pallet.n.02,
+palm_tree,palm tree,palm.n.03,"palmtree,palm-tree"
+pan,pan,pan.n.01,
+pancake,pancake,pancake.n.01,"flannel-cake,flapjack,flannel cake,battercake,hot cake,flapcake,hotcake"
+panda,panda,panda.n.01,
+panther,panther,panther.n.02,
+panties,panties,pantie.n.01,"pantie,panty,scanty,step-in"
+pants,pants,pant.n.02,
+pantsuit,pantsuit,pants_suit.n.01,pants suit
+pantyhose,pantyhose,pantyhose.n.01,
+papaya,papaya,papaya.n.02,
+paper,paper,paper.n.01,
+paper_bag,paper bag,paper_bag.n.01,"paper-bag,paperbag"
+paper_plate,paper plate,paper_plate.n.01,"paper-plate,paperplate"
+paper_towel,paper towel,paper_towel.n.01,"paper-towel,papertowel"
+paperclip,paperclip,paperclip.n.01,
+paperweight,paperweight,paperweight.n.01,
+parachute,parachute,parachute.n.01,chute
+parfait,parfait,parfait.n.01,
+parking_meter,parking meter,parking_meter.n.01,"parking-meter,parkingmeter"
+parrot,parrot,parrot.n.01,
+parsley,parsley,parsley.n.02,
+pasta,pasta,pasta.n.02,alimentary paste
+pastry,pastry,pastry.n.02,
+patch,patch,patch.n.03,
+patty,patty,patty.n.01,
+payphone,payphone,,
+pea,pea,pea.n.02,
+peach,peach,peach.n.03,
+peacock,peacock,peacock.n.02,
+peanut,peanut,peanut.n.01,
+peanut_butter,peanut butter,peanut_butter.n.01,"peanut-butter,peanutbutter"
+pear,pear,pear.n.01,
+pearl,pearl,pearl.n.01,
+pecan,pecan,pecan.n.03,
+pedal,pedal,pedal.n.02,"treadle,foot lever"
+pedometer,pedometer,pedometer.n.01,
+peeler,peeler,peeler.n.03,
+peg,peg,peg.n.01,nog
+pelican,pelican,pelican.n.01,
+pen,pen,pen.n.01,
+pencil,pencil,pencil.n.01,
+pencil_sharpener,pencil sharpener,pencil_sharpener.n.01,"pencil-sharpener,pencilsharpener"
+pendulum,pendulum,pendulum.n.01,
+penguin,penguin,penguin.n.01,
+penholder,penholder,,
+penlight,penlight,penlight.n.01,
+pennant,pennant,pennant.n.02,
+pepper_mill,pepper mill,pepper_mill.n.01,"peppermill,pepper-mill"
+pepper1,pepper,pepper.n.03,peppercorn
+pepper2,pepper,pepper.n.04,
+peppermint,peppermint,peppermint.n.03,
+pepperoni,pepperoni,pepperoni.n.01,
+perfume,perfume,perfume.n.02,
+periscope,periscope,periscope.n.01,
+pesto,pesto,pesto.n.01,
+pet_food,pet food,pet-food.n.01,"pet-food,petfood"
+petal,petal,petal.n.01,
+petri_dish,petri dish,Petri_dish.n.01,"petri-dish,petridish"
+pheasant,pheasant,pheasant.n.01,
+phone,phone,phone.n.01,
+phone_booth,phone booth,phone_booth.n.01,"phone-booth,phonebooth"
+photo_booth,photo booth,,"photobooth,photo-booth"
+photograph,photograph,photo.n.01,
+piano,piano,piano.n.01,"pianoforte,forte-piano"
+pickax,pickax,pickax.n.01,
+pickle,pickle,pickle.n.01,
+pie,pie,pie.n.01,
+piecrust,piecrust,pie_crust.n.01,
+pig,pig,pig.n.01,
+pigeon,pigeon,pigeon.n.01,
+piggy_bank,piggy bank,piggy_bank.n.01,"piggybank,piggy-bank"
+piglet,piglet,piglet.n.01,"shote,piggy,shoat"
+pill,pill,pill.n.02,
+pillbox,pillbox,pillbox.n.02,
+pillow,pillow,pillow.n.01,
+pin,pin,pin.n.08,
+pinball,pinball,pinball.n.01,
+pincushion,pincushion,pincushion.n.01,
+pine_needle,pine needle,needle.n.01,"pine-needle,pineneedle"
+pine_tree,pine tree,pine.n.01,"pinetree,pine-tree"
+pineapple,pineapple,pineapple.n.02,
+pinecone,pinecone,pinecone.n.01,
+ping-pong_table,ping-pong table,ping-pong_table.n.01,"ping-pong-table,ping pong table,pingpongtable"
+pinwheel,pinwheel,pinwheel.n.03,
+pipe1,pipe,pipe.n.01,
+pipe2,pipe,pipe.n.02,
+pistachio,pistachio,pistachio.n.02,
+pita,pita,pita.n.01,pocket bread
+pitcher,pitcher,pitcher.n.02,ewer
+pitchfork,pitchfork,pitchfork.n.01,
+pizza,pizza,pizza.n.01,
+place_mat,place mat,place_mat.n.01,"placemat,place-mat"
+plant,plant,plant.n.02,
+plaster_cast,plaster cast,plaster_cast.n.01,"plastercast,plaster-cast"
+plastic_film,plastic film,plastic_film.n.01,"plasticfilm,plastic-film"
+plate,plate,plate.n.04,
+platypus,platypus,platypus.n.01,ornithorhynchus anatinus
+playing_card,playing card,playing_card.n.01,"playingcard,playing-card"
+playpen,playpen,playpen.n.01,
+pliers,pliers,pliers.n.01,plyers
+plug,plug,plug.n.05,
+plum,plum,plum.n.02,
+plunger,plunger,plunger.n.03,plumber's helper
+pocket,pocket,pocket.n.01,
+pocket_watch,pocket watch,pocket_watch.n.01,"pocket-watch,pocketwatch"
+pocketknife,pocketknife,pocketknife.n.01,pocket knife
+pogo_stick,pogo stick,pogo_stick.n.01,"pogostick,pogo-stick"
+poinsettia,poinsettia,poinsettia.n.01,"christmas star,euphorbia pulcherrima,mexican flameleaf,christmas flower,lobster plant"
+poker,poker,poker.n.01,fire hook
+polar_bear,polar bear,polar_bear.n.01,"polar-bear,polarbear"
+polaroid,polaroid,Polaroid.n.01,
+pole,pole,pole.n.01,
+police_car,police car,police_car.n.01,"policecar,police-car"
+polisher,polisher,polisher.n.01,
+polo_shirt,polo shirt,polo_shirt.n.01,"poloshirt,polo-shirt"
+polygraph,polygraph,polygraph.n.01,
+pom-pom,pom-pom,pom-pom.n.01,"pom pom,pompom"
+pomegranate,pomegranate,pomegranate.n.02,
+pony,pony,pony.n.05,
+poodle,poodle,poodle.n.01,
+pool_table,pool table,pool_table.n.01,"pool-table,pooltable"
+popcorn,popcorn,popcorn.n.02,
+poppy,poppy,poppy.n.01,
+popsicle,popsicle,popsicle.n.01,
+porcupine,porcupine,porcupine.n.01,hedgehog
+porthole,porthole,porthole.n.01,
+possum,possum,possum.n.01,
+poster,poster,,
+pot,pot,pot.n.01,
+potato,potato,potato.n.01,"tater,murphy,spud"
+potholder,potholder,potholder.n.01,
+pothole,pothole,pothole.n.01,chuckhole
+potpie,potpie,potpie.n.01,
+potpourri,potpourri,potpourri.n.03,
+powder,powder,powder.n.01,"pulverisation,pulverization"
+power_line,power line,power_line.n.01,"powerline,power-line"
+praying_mantis,praying mantis,praying_mantis.n.01,"praying-mantis,prayingmantis"
+pretzel,pretzel,pretzel.n.01,
+printer,printer,printer.n.03,printing machine
+prism,prism,prism.n.02,
+projector,projector,projector.n.02,
+propeller,propeller,propeller.n.01,propellor
+prune,prune,prune.n.01,
+puck,puck,puck.n.01,robin goodfellow
+pudding,pudding,pudding.n.03,
+puddle,puddle,puddle.n.02,
+puffin,puffin,puffin.n.01,
+pug,pug,pug.n.01,pug-dog
+pulley,pulley,pulley.n.01,pulley-block
+pulpit,pulpit,pulpit.n.01,
+pump,pump,pump.n.01,
+pumpkin,pumpkin,pumpkin.n.02,
+punch1,punch,punch.n.02,
+punch2,punch,punch.n.03,
+punching_bag,punching bag,punching_bag.n.02,"punching-bag,punchingbag"
+puppet,puppet,puppet.n.03,
+puppy,puppy,puppy.n.01,
+purse,purse,purse.n.03,
+quad,quad,,
+quesadilla,quesadilla,quesadilla.n.01,
+quiche,quiche,quiche.n.01,
+quill,quill,quill.n.01,
+quilt,quilt,quilt.n.01,
+rabbit,rabbit,rabbit.n.01,
+raccoon,raccoon,raccoon.n.02,racoon
+racehorse,racehorse,racehorse.n.01,"race horse,bangtail"
+rack1,rack,rack.n.01,
+rack2,rack,rack.n.05,
+racket,racket,racket.n.04,racquet
+radar,radar,radar.n.01,"radio detection and ranging,radiolocation"
+radiator,radiator,radiator.n.02,
+radio,radio,radio.n.02,
+radish,radish,radish.n.01,
+raft,raft,raft.n.01,
+rag,rag,rag.n.01,"tag end,tatter"
+railing,railing,rail.n.01,
+rain_gauge,rain gauge,rain_gauge.n.01,"rain-gauge,raingauge"
+raincoat,raincoat,raincoat.n.01,
+raisin,raisin,raisin.n.01,
+rake,rake,rake.n.03,
+ram,ram,ram.n.02,
+ramp,ramp,ramp.n.01,
+raspberry,raspberry,raspberry.n.02,
+rat,rat,rat.n.01,
+ratchet,ratchet,ratch.n.01,
+rattle,rattle,rattle.n.02,
+rattlesnake,rattlesnake,rattlesnake.n.01,rattler
+ravioli,ravioli,ravioli.n.01,cappelletti
+razor,razor,razor.n.01,
+razor_blade,razor blade,razorblade.n.01,"razorblade,razor-blade"
+ready_meal,ready meal,,"readymeal,ready-meal"
+rearview_mirror,rearview mirror,rearview_mirror.n.01,"rearviewmirror,rearview-mirror"
+recliner,recliner,recliner.n.01,reclining chair
+record,record,record.n.02,
+record_player,record player,record_player.n.01,"record-player,recordplayer"
+recorder,recorder,recorder.n.04,
+red_carpet,red carpet,red_carpet.n.01,"redcarpet,red-carpet"
+reel,reel,reel.n.01,
+refrigerator,refrigerator,refrigerator.n.01,icebox
+reindeer,reindeer,reindeer.n.01,
+remote_control,remote control,remote.n.01,"remote-control,remotecontrol"
+retainer,retainer,retainer.n.03,
+revolver,revolver,revolver.n.01,"six-shooter,six-gun"
+revolving_door,revolving door,revolving_door.n.02,"revolving-door,revolvingdoor"
+rhinoceros,rhinoceros,rhino.n.01,
+rhubarb,rhubarb,rhubarb.n.01,
+ribbon,ribbon,ribbon.n.04,
+rice,rice,rice.n.01,
+rickshaw,rickshaw,ricksha.n.01,
+rifle,rifle,rifle.n.01,
+rim,rim,rim.n.03,
+ring,ring,ring.n.08,
+riser,riser,,
+road_sign,road sign,street_sign.n.01,"roadsign,road-sign"
+roadsweeper,roadsweeper,,
+robe,robe,robe.n.01,
+robot,robot,robot.n.01,
+rock,rock,rock.n.01,stone
+rocket,rocket,rocket.n.02,
+rocking_chair,rocking chair,rocking_chair.n.01,"rocking-chair,rockingchair"
+rocking_horse,rocking horse,rocking_horse.n.01,"rockinghorse,rocking-horse"
+roll,roll,roll.n.07,
+roller,roller,roller.n.04,
+roller_coaster,roller coaster,roller_coaster.n.02,"roller-coaster,rollercoaster"
+rollerblade,rollerblade,Rollerblade.n.01,
+rollerskate,rollerskate,roller_skate.n.01,
+rolling_pin,rolling pin,rolling_pin.n.01,"rollingpin,rolling-pin"
+roof_rack,roof rack,roof_rack.n.01,"roofrack,roof-rack"
+rooster,rooster,rooster.n.01,
+root,root,root.n.01,
+rope,rope,rope.n.01,
+rosary,rosary,rosary.n.01,prayer beads
+rose,rose,rose.n.01,rosebush
+roulette_wheel,roulette wheel,roulette_wheel.n.01,"roulettewheel,roulette-wheel"
+router,router,router.n.02,
+rubber_band,rubber band,rubber_band.n.01,"rubber-band,rubberband"
+ruby,ruby,ruby.n.01,
+rudder,rudder,rudder.n.02,
+rug,rug,rug.n.01,"carpeting,carpet"
+ruler,ruler,rule.n.12,
+rust,rust,rust.n.01,
+saddle,saddle,saddle.n.01,
+safety_pin,safety pin,safety_pin.n.01,"safetypin,safety-pin"
+saffron,saffron,saffron.n.02,
+sail,sail,sail.n.01,
+sailboat,sailboat,sailboat.n.01,sailing boat
+salad,salad,salad.n.01,
+salami,salami,salami.n.01,
+saltshaker,saltshaker,saltshaker.n.01,salt shaker
+sand,sand,sand.n.01,
+sandal,sandal,sandal.n.01,
+sandbag,sandbag,sandbag.n.01,
+sandbox,sandbox,sandbox.n.02,sandpile
+sandcastle,sandcastle,,
+sandpaper,sandpaper,sandpaper.n.01,
+sandwich,sandwich,sandwich.n.01,
+sarcophagus,sarcophagus,sarcophagus.n.01,
+sardine,sardine,sardine.n.01,pilchard
+satellite,satellite,satellite.n.01,orbiter
+satellite_dish,satellite dish,saucer.n.03,"satellite-dish,satellitedish"
+sauce,sauce,sauce.n.01,
+saucer,saucer,saucer.n.02,
+sauerkraut,sauerkraut,sauerkraut.n.01,
+sausage,sausage,sausage.n.01,
+saw,saw,saw.n.02,
+sawhorse,sawhorse,sawhorse.n.01,sawbuck
+saxophone,saxophone,saxophone.n.01,
+scaffold,scaffold,scaffold.n.02,
+scaffolding,scaffolding,scaffolding.n.01,
+scale,scale,scale.n.07,weighing machine
+scallion,scallion,scallion.n.02,
+scallop,scallop,scallop.n.02,"scollop,escallop"
+scalpel,scalpel,scalpel.n.01,
+scanner,scanner,scanner.n.02,
+scarecrow,scarecrow,scarecrow.n.01,"scarer,bird-scarer"
+scarf,scarf,scarf.n.01,
+school_bus,school bus,school_bus.n.01,"schoolbus,school-bus"
+scissors,scissors,scissors.n.01,
+scone,scone,scone.n.01,
+scoop,scoop,scoop.n.06,
+scooter,scooter,scooter.n.02,
+scoreboard,scoreboard,scoreboard.n.01,
+scorpion,scorpion,scorpion.n.01,
+scrabble,scrabble,Scrabble.n.01,
+scrambled_egg,scrambled egg,scrambled_eggs.n.01,"scrambledegg,scrambled-egg"
+scraper,scraper,scraper.n.01,
+screen1,screen,screen.n.01,
+screen2,screen,screen.n.05,
+screw,screw,screw.n.04,
+screwdriver,screwdriver,screwdriver.n.01,
+scuba,scuba,scuba.n.01,
+sea_urchin,sea urchin,sea_urchin.n.01,"seaurchin,sea-urchin"
+seafood,seafood,seafood.n.01,
+seagull,seagull,seagull.n.01,
+seahorse,seahorse,seahorse.n.02,
+seal,seal,seal.n.08,
+seaplane,seaplane,seaplane.n.01,hydroplane
+seatbelt,seatbelt,seatbelt.n.01,
+seaweed,seaweed,seaweed.n.01,
+seed,seed,seed.n.01,
+seesaw,seesaw,seesaw.n.01,"dandle board,teeter,teeterboard,tilting board,teeter-totter,teetertotter"
+seismograph,seismograph,seismograph.n.01,
+sequin,sequin,sequin.n.01,"diamante,spangle"
+sewage,sewage,sewage.n.01,sewerage
+sewing_kit,sewing kit,sewing_kit.n.01,"sewing-kit,sewingkit"
+sewing_machine,sewing machine,sewing_machine.n.01,"sewingmachine,sewing-machine"
+shaker,shaker,shaker.n.02,
+shark,shark,shark.n.01,
+shaving_cream,shaving cream,shaving_cream.n.01,"shaving-cream,shavingcream"
+shawl,shawl,shawl.n.01,
+shears,shears,shears.n.01,
+sheath,sheath,sheath.n.01,
+sheep,sheep,sheep.n.01,
+sheet,sheet,sheet.n.03,
+shelf,shelf,shelf.n.01,
+shell1,shell,shell.n.01,
+shell2,shell,shell.n.02,
+shell3,shell,shell.n.04,
+shield,shield,shield.n.02,buckler
+ship,ship,ship.n.01,
+shirt,shirt,shirt.n.01,
+shoe,shoe,shoe.n.01,
+shoe_polish,shoe polish,shoe_polish.n.01,"shoe-polish,shoepolish"
+shoehorn,shoehorn,shoehorn.n.01,
+shoelace,shoelace,shoelace.n.01,"shoestring,shoe lace"
+shopping_basket,shopping basket,shopping_basket.n.01,"shoppingbasket,shopping-basket"
+shopping_cart,shopping cart,shopping_cart.n.01,"shoppingcart,shopping-cart"
+shortbread,shortbread,shortbread.n.01,
+shorts,shorts,shorts.n.01,
+shoulder,shoulder,shoulder.n.01,
+shovel,shovel,shovel.n.01,
+shower,shower,shower.n.01,
+shower_cap,shower cap,shower_cap.n.01,"showercap,shower-cap"
+shower_curtain,shower curtain,shower_curtain.n.01,"shower-curtain,showercurtain"
+showerhead,showerhead,showerhead.n.01,
+shredder,shredder,shredder.n.01,
+shrimp,shrimp,shrimp.n.02,
+shuffleboard,shuffleboard,shuffleboard.n.01,shovelboard
+shutter,shutter,shutter.n.02,
+sickle,sickle,sickle.n.01,"reaping hook,reap hook"
+sidecar,sidecar,sidecar.n.02,
+sifter,sifter,sifter.n.01,
+silicone,silicone,silicone.n.01,
+silverware,silverware,silverware.n.01,
+sim_card,sim card,,"sim-card,simcard"
+sink,sink,sink.n.01,
+siren,siren,siren.n.03,
+skateboard,skateboard,skateboard.n.01,
+skeleton,skeleton,skeleton.n.03,
+skewer,skewer,skewer.n.01,
+ski,ski,ski.n.01,
+ski_boots,ski boots,ski_boot.n.01,"ski-boots,skiboots"
+ski_lift,ski lift,ski_lift.n.01,"skilift,ski-lift"
+ski_pole,ski pole,ski_pole.n.01,"skipole,ski-pole"
+skin,skin,skin.n.01,"tegument,cutis"
+skirt,skirt,skirt.n.02,
+skull,skull,skull.n.01,
+skunk,skunk,skunk.n.04,"polecat,wood pussy"
+sled,sled,sled.n.01,"sledge,sleigh"
+sledgehammer,sledgehammer,sledgehammer.n.01,
+sleeping_bag,sleeping bag,sleeping_bag.n.01,"sleeping-bag,sleepingbag"
+slicer,slicer,slicer.n.02,
+slide,slide,slide.n.04,sliding board
+slime,slime,slime.n.01,
+sling,sling,sling.n.05,"scarf bandage,triangular bandage"
+slingshot,slingshot,slingshot.n.01,catapult
+slipper,slipper,slipper.n.01,
+slot,slot,slot.n.02,
+slot_machine,slot machine,slot_machine.n.01,"slotmachine,slot-machine"
+sloth,sloth,sloth.n.02,
+slug,slug,slug.n.07,
+smoke_alarm,smoke alarm,smoke_alarm.n.01,"smoke-alarm,smokealarm"
+smoothie,smoothie,smoothie.n.02,
+snack,snack,snack.n.01,
+snail,snail,snail.n.01,
+snake,snake,snake.n.01,"serpent,ophidian"
+snorkel,snorkel,snorkel.n.01,
+snow,snow,snow.n.01,snowfall
+snowball,snowball,snowball.n.04,
+snowboard,snowboard,snowboard.n.01,
+snowman,snowman,snowman.n.01,
+snowmobile,snowmobile,snowmobile.n.01,
+snowplow,snowplow,snowplow.n.01,snowplough
+snowshoe,snowshoe,snowshoe.n.01,
+snowsuit,snowsuit,snowsuit.n.01,
+soap,soap,soap.n.01,
+soccer_ball,soccer ball,soccer_ball.n.01,"soccerball,soccer-ball"
+sock,sock,sock.n.01,
+soda,soda,soda.n.02,
+soda_fountain,soda fountain,soda_fountain.n.02,"sodafountain,soda-fountain"
+sofa_bed,sofa bed,sofa_bed.n.01,"sofa-bed,sofabed"
+solar_panel,solar panel,solar_panel.n.01,"solarpanel,solar-panel"
+soldering_iron,soldering iron,soldering_iron.n.01,"solderingiron,soldering-iron"
+sombrero,sombrero,sombrero.n.01,
+sonogram,sonogram,sonogram.n.01,echogram
+sorbet,sorbet,sorbet.n.01,
+souffle,souffle,souffle.n.01,
+soup,soup,soup.n.01,
+soy_sauce,soy sauce,soy.n.03,"soysauce,soy-sauce"
+space_shuttle,space shuttle,space_shuttle.n.01,"spaceshuttle,space-shuttle"
+spacesuit,spacesuit,spacesuit.n.01,
+spaghetti,spaghetti,spaghetti.n.02,
+spam,spam,Spam.n.01,
+spareribs,spareribs,spareribs.n.02,
+spark_plug,spark plug,spark_plug.n.01,"sparkplug,spark-plug"
+sparkler,sparkler,sparkler.n.02,
+spatula,spatula,spatula.n.01,
+speaker,speaker,speaker.n.02,
+spear,spear,spear.n.01,lance
+speedboat,speedboat,speedboat.n.01,
+speedometer,speedometer,speedometer.n.01,speed indicator
+spider,spider,spider.n.01,
+spider_web,spider web,spider_web.n.02,"spider-web,spiderweb"
+spinach,spinach,spinach.n.02,
+splinter,splinter,splinter.n.01,sliver
+sponge,sponge,sponge.n.01,
+spool,spool,spool.n.01,
+spoon,spoon,spoon.n.01,
+spout,spout,spout.n.01,
+spring_roll,spring roll,,"spring-roll,springroll"
+springboard,springboard,springboard.n.01,
+sprinkler,sprinkler,sprinkler.n.01,
+sprouts,sprouts,,
+spur,spur,spur.n.04,
+squash,squash,squash.n.02,
+squeegee,squeegee,squeegee.n.01,
+squid,squid,squid.n.02,
+squirrel,squirrel,squirrel.n.01,
+squirt_gun,squirt gun,squirt_gun.n.01,"squirt-gun,squirtgun"
+stained_glass,stained glass,stained_glass.n.01,"stained-glass,stainedglass"
+stair,stair,stair.n.01,
+stake,stake,stake.n.05,
+stalagmite,stalagmite,stalagmite.n.01,
+stamp1,stamp,stamp.n.04,
+stamp2,stamp,stamp.n.08,
+staple,staple,staple.n.05,
+staple_gun,staple gun,staple_gun.n.01,"staple-gun,staplegun"
+stapler,stapler,stapler.n.01,stapling machine
+star_fruit,star fruit,star_fruit.n.01,"starfruit,star-fruit"
+starfish,starfish,starfish.n.01,sea star
+station_wagon,station wagon,station_wagon.n.01,"stationwagon,station-wagon"
+statue,statue,statue.n.01,
+steak,steak,steak.n.01,
+steamroller,steamroller,steamroller.n.02,road roller
+steering_wheel,steering wheel,steering_wheel.n.01,"steeringwheel,steering-wheel"
+stem,stem,stem.n.02,
+step_stool,step stool,step_stool.n.01,"stepstool,step-stool"
+stereo,stereo,stereo.n.01,"stereophonic system,stereophony"
+stethoscope,stethoscope,stethoscope.n.01,
+stew,stew,stew.n.02,
+stick,stick,stick.n.01,
+sticker,sticker,sticker.n.02,
+stiletto,stiletto,,
+stilt,stilt,stilt.n.02,
+stingray,stingray,stingray.n.01,
+stir_fry,stir fry,,"stirfry,stir-fry"
+stirrup,stirrup,stirrup.n.01,
+stockings,stockings,stocking.n.01,stocking
+stomach,stomach,stomach.n.02,
+stool,stool,stool.n.01,
+stopwatch,stopwatch,stopwatch.n.01,stop watch
+stove1,stove,stove.n.01,kitchen range
+stove2,stove,stove.n.02,
+straightjacket,straightjacket,straightjacket.n.01,
+strainer,strainer,strainer.n.01,
+strap,strap,strap.n.01,
+straw1,straw,straw.n.01,
+straw2,straw,straw.n.04,
+strawberry,strawberry,strawberry.n.01,
+streetlight,streetlight,streetlight.n.01,street lamp
+stretcher,stretcher,stretcher.n.03,
+string_cheese,string cheese,string_cheese.n.01,"string-cheese,stringcheese"
+stroller,stroller,stroller.n.02,
+stuffing,stuffing,stuffing.n.01,
+stump,stump,stump.n.01,
+submarine,submarine,sub.n.02,
+subway,subway,subway.n.01,
+sugar_cube,sugar cube,,"sugar-cube,sugarcube"
+suit,suit,suit.n.01,
+suitcase,suitcase,suitcase.n.01,
+sundae,sundae,sundae.n.01,
+sundial,sundial,sundial.n.01,
+sunflower,sunflower,sunflower.n.01,helianthus
+sunglasses,sunglasses,sunglasses.n.01,"dark glasses,shades"
+sunroof,sunroof,sunroof.n.01,sunshine-roof
+surfboard,surfboard,surfboard.n.01,
+sushi,sushi,sushi.n.01,
+suspenders,suspenders,suspender.n.01,
+swab,swab,swab.n.01,
+swan,swan,swan.n.01,
+sweater,sweater,sweater.n.01,
+sweatsuit,sweatsuit,sweats.n.01,
+sweeper,sweeper,sweeper.n.02,
+sweet_potato,sweet potato,sweet_potato.n.02,"sweet-potato,sweetpotato"
+swimming_pool,swimming pool,swimming_pool.n.01,"swimming-pool,swimmingpool"
+swimsuit,swimsuit,swimsuit.n.01,"swimming costume,swimwear,bathing suit,bathing costume"
+swing,swing,swing.n.02,
+swing_set,swing set,,"swingset,swing-set"
+switch,switch,switch.n.01,
+swizzle_stick,swizzle stick,swizzle_stick.n.01,"swizzlestick,swizzle-stick"
+sword,sword,sword.n.01,
+swordfish,swordfish,swordfish.n.02,xiphias gladius
+syringe,syringe,syringe.n.01,
+syrup,syrup,syrup.n.01,sirup
+t-shirt,t-shirt,t-shirt.n.01,"tshirt,t shirt"
+tab,tab,tab.n.04,
+table,table,table.n.02,
+tablecloth,tablecloth,tablecloth.n.01,
+tablet,tablet,,
+tack,tack,tack.n.02,
+tackle,tackle,tackle.n.03,
+taco,taco,taco.n.02,
+tadpole,tadpole,tadpole.n.01,"polliwog,pollywog"
+taffy,taffy,taffy.n.01,
+tag,tag,tag.n.01,
+taillight,taillight,taillight.n.01,"tail lamp,rear light,rear lamp"
+tamale,tamale,tamale.n.01,
+tambourine,tambourine,tambourine.n.01,
+tank1,tank,tank.n.01,"armored combat vehicle,armoured combat vehicle"
+tank2,tank,tank.n.02,
+tape,tape,tape.n.01,
+tape_measure,tape measure,tape.n.04,"tapemeasure,tape-measure"
+tape_recorder,tape recorder,tape_recorder.n.01,"tape-recorder,taperecorder"
+tapestry,tapestry,tapestry.n.03,arras
+tarantula,tarantula,tarantula.n.02,
+target,target,target.n.04,
+tarp,tarp,tarp.n.01,
+tattoo,tattoo,tattoo.n.02,
+taxi,taxi,taxi.n.01,
+tea,tea,tea.n.01,
+teabag,teabag,tea_bag.n.02,
+teacup,teacup,teacup.n.02,
+teapot,teapot,teapot.n.01,
+teddy_bear,teddy bear,teddy.n.01,"teddy-bear,teddybear"
+tee,tee,tee.n.03,
+teepee,teepee,teepee.n.01,
+telegraph,telegraph,telegraph.n.01,
+telephone_pole,telephone pole,telephone_pole.n.01,"telephone-pole,telephonepole"
+telescope,telescope,telescope.n.01,
+television,television,television.n.01,"tv,telecasting"
+tennis_ball,tennis ball,tennis_ball.n.01,"tennisball,tennis-ball"
+tent,tent,tent.n.01,collapsible shelter
+terrarium,terrarium,terrarium.n.01,
+test_tube,test tube,test_tube.n.01,"test-tube,testtube"
+thermometer,thermometer,thermometer.n.01,
+thermos,thermos,thermos.n.01,
+thermostat,thermostat,thermostat.n.01,thermoregulator
+thimble,thimble,thimble.n.02,
+thorn,thorn,thorn.n.02,
+thread,thread,thread.n.01,
+throne,throne,throne.n.01,
+thumb,thumb,thumb.n.01,pollex
+thumbtack,thumbtack,thumbtack.n.01,"pushpin,drawing pin"
+tiara,tiara,tiara.n.01,
+tick,tick,tick.n.02,
+ticktacktoe,ticktacktoe,ticktacktoe.n.01,"tit-tat-toe,ticktacktoo,tick-tack-toe,tic-tac-toe,noughts and crosses"
+tie,tie,tie.n.01,
+tiger,tiger,tiger.n.02,panthera tigris
+tile,tile,tile.n.02,
+timer,timer,timer.n.01,
+tinsel,tinsel,tinsel.n.02,
+tiramisu,tiramisu,tiramisu.n.01,
+toad,toad,,
+toast,toast,toast.n.01,
+toaster,toaster,toaster.n.02,
+toaster_oven,toaster oven,toaster_oven.n.01,"toasteroven,toaster-oven"
+toe,toe,toe.n.01,
+toga,toga,toga.n.01,
+toilet,toilet,toilet.n.02,"potty,commode,crapper"
+toilet_paper,toilet paper,toilet_paper.n.01,"toilet-paper,toiletpaper"
+tomato,tomato,tomato.n.01,
+tomato_sauce,tomato sauce,tomato_sauce.n.01,"tomatosauce,tomato-sauce"
+tongs,tongs,tongs.n.01,
+tongue,tongue,tongue.n.01,"glossa,lingua"
+tool,tool,tool.n.01,
+toolbox,toolbox,toolbox.n.01,"tool cabinet,tool chest,tool case"
+tooth,tooth,tooth.n.01,
+toothbrush,toothbrush,toothbrush.n.01,
+toothpaste,toothpaste,toothpaste.n.01,
+toothpick,toothpick,toothpick.n.01,
+top_hat,top hat,top_hat.n.01,"top-hat,tophat"
+torch,torch,torch.n.01,
+torpedo,torpedo,torpedo.n.06,
+torso,torso,torso.n.01,
+tortellini,tortellini,tortellini.n.01,
+tortilla,tortilla,tortilla.n.01,
+tostada,tostada,tostada.n.01,
+totem_pole,totem pole,totem_pole.n.01,"totem-pole,totempole"
+toucan,toucan,toucan.n.01,
+touchpad,touchpad,,
+towel,towel,towel.n.01,
+towel_rack,towel rack,towel_rack.n.01,"towelrack,towel-rack"
+toy,toy,toy.n.01,
+tractor,tractor,tractor.n.01,
+traffic_light,traffic light,traffic_light.n.01,"traffic-light,trafficlight"
+trailer,trailer,trailer.n.04,
+train,train,train.n.01,
+train_car,train car,,"traincar,train-car"
+train_set,train set,train_set.n.01,"trainset,train-set"
+trampoline,trampoline,trampoline.n.01,
+trap,trap,trap.n.01,
+trapdoor,trapdoor,trap_door.n.01,
+trashcan,trashcan,trash_can.n.01,
+tray,tray,tray.n.01,
+treadmill,treadmill,treadmill.n.01,
+treasure,treasure,treasure.n.04,
+tree,tree,tree.n.01,
+tree_trunk,tree trunk,tree_trunk.n.01,"tree-trunk,treetrunk"
+triangle,triangle,triangle.n.04,
+tricycle,tricycle,tricycle.n.01,trike
+trident,trident,trident.n.01,
+trigger,trigger,trigger.n.01,
+tripod,tripod,tripod.n.01,
+trolley,trolley,trolley.n.01,
+trombone,trombone,trombone.n.01,
+trophy,trophy,trophy.n.02,
+trough,trough,trough.n.06,
+trowel,trowel,trowel.n.01,
+truck,truck,truck.n.01,motortruck
+trumpet,trumpet,trumpet.n.01,
+trunk,trunk,trunk.n.02,
+tuba,tuba,tuba.n.01,
+tube_top,tube top,,"tubetop,tube-top"
+tugboat,tugboat,tugboat.n.01,towboat
+tulip,tulip,tulip.n.01,
+tumbleweed,tumbleweed,tumbleweed.n.01,
+tuning_fork,tuning fork,tuning_fork.n.01,"tuningfork,tuning-fork"
+tupperware,tupperware,,
+turban,turban,turban.n.01,
+turbine,turbine,turbine.n.01,
+turf,turf,turf.n.01,"sod,greensward,sward"
+turkey,turkey,turkey.n.01,meleagris gallopavo
+turnstile,turnstile,turnstile.n.01,
+turntable,turntable,turntable.n.01,
+turtle,turtle,turtle.n.02,
+turtleneck,turtleneck,turtleneck.n.01,"turtle,polo-neck"
+tuxedo,tuxedo,tux.n.01,
+tweezers,tweezers,tweezer.n.01,
+twig,twig,twig.n.01,
+typewriter,typewriter,typewriter.n.01,
+ukulele,ukulele,ukulele.n.01,
+umbrella,umbrella,umbrella.n.01,
+undershirt,undershirt,undershirt.n.01,
+underwear,underwear,underwear.n.01,"underclothes,underclothing"
+unicycle,unicycle,unicycle.n.01,monocycle
+uniform,uniform,uniform.n.01,
+urinal,urinal,urinal.n.01,
+urn,urn,urn.n.01,
+vacuum,vacuum,vacuum.n.04,
+valve,valve,valve.n.03,
+van,van,van.n.05,
+vase,vase,vase.n.01,
+vegetable,vegetable,vegetable.n.01,"veggie,veg"
+veil,veil,veil.n.01,
+velcro,velcro,Velcro.n.01,
+vending_machine,vending machine,vending_machine.n.01,"vending-machine,vendingmachine"
+vent,vent,vent.n.01,"venthole,vent-hole"
+vest,vest,vest.n.01,waistcoat
+vial,vial,vial.n.01,
+videocassette,videocassette,videocassette.n.01,
+videogame,videogame,video_game.n.01,video game
+viewfinder,viewfinder,viewfinder.n.01,
+violin,violin,violin.n.01,fiddle
+vise,vise,vise.n.01,
+visor,visor,visor.n.02,
+volleyball,volleyball,volleyball.n.02,
+vulture,vulture,vulture.n.01,
+wafer,wafer,wafer.n.02,
+waffle,waffle,waffle.n.01,
+waffle_iron,waffle iron,waffle_iron.n.01,"waffle-iron,waffleiron"
+wagon,wagon,wagon.n.01,waggon
+walker1,walker,walker.n.03,
+walker2,walker,walker.n.04,
+wall,wall,wall.n.01,
+wallet,wallet,wallet.n.01,"notecase,billfold"
+wallpaper,wallpaper,wallpaper.n.01,
+walnut,walnut,walnut.n.01,
+walrus,walrus,walrus.n.01,"sea horse,seahorse"
+wand,wand,wand.n.01,
+warthog,warthog,warthog.n.01,
+washboard,washboard,washboard.n.01,
+washcloth,washcloth,washcloth.n.01,"face cloth,washrag"
+washing_machine,washing machine,washing_machine.n.01,"washingmachine,washing-machine"
+wasp,wasp,wasp.n.01,white anglo-saxon protestant
+watch,watch,watch.n.01,
+water_bottle,water bottle,water_bottle.n.01,"water-bottle,waterbottle"
+water_cooler,water cooler,water_cooler.n.01,"watercooler,water-cooler"
+water_filter,water filter,water_filter.n.01,"water-filter,waterfilter"
+water_fountain,water fountain,water_fountain.n.01,"waterfountain,water-fountain"
+water_heater,water heater,water_heater.n.01,"waterheater,water-heater"
+watering_can,watering can,watering_can.n.01,"watering-can,wateringcan"
+watermelon,watermelon,watermelon.n.02,
+waterwheel,waterwheel,waterwheel.n.02,
+wax,wax,wax.n.01,
+wax_paper,wax paper,wax_paper.n.01,"wax-paper,waxpaper"
+weasel,weasel,weasel.n.02,
+weather_vane,weather vane,weather_vane.n.01,"weathervane,weather-vane"
+webcam,webcam,webcam.n.01,
+wedding_cake,wedding cake,wedding_cake.n.01,"weddingcake,wedding-cake"
+wedge,wedge,wedge.n.06,
+weed,weed,weed.n.01,
+wetsuit,wetsuit,wet_suit.n.01,
+whale,whale,whale.n.02,
+wheat,wheat,wheat.n.02,
+wheel,wheel,wheel.n.01,
+wheelbarrow,wheelbarrow,wheelbarrow.n.01,
+wheelchair,wheelchair,wheelchair.n.01,
+whip,whip,whip.n.01,
+whipped_cream,whipped cream,whipped_cream.n.01,"whipped-cream,whippedcream"
+whisk,whisk,whisk.n.01,
+whistle,whistle,whistle.n.03,
+whiteboard,whiteboard,,
+whoopee_cushion,whoopee cushion,,"whoopeecushion,whoopee-cushion"
+wick,wick,wick.n.02,
+wig,wig,wig.n.01,
+wind_chimes,wind chimes,wind_chime.n.01,"windchimes,wind-chimes"
+window,window,window.n.01,
+windowsill,windowsill,windowsill.n.01,
+windshield,windshield,windshield.n.01,windscreen
+windshield_wiper,windshield wiper,windshield_wiper.n.01,"windshield-wiper,windshieldwiper"
+windsock,windsock,windsock.n.01,"air sock,wind sleeve,wind cone,air-sleeve,wind sock"
+wine,wine,wine.n.01,vino
+wine_bottle,wine bottle,wine_bottle.n.01,"winebottle,wine-bottle"
+wine_cooler,wine cooler,wine_cooler.n.01,"winecooler,wine-cooler"
+wineglass,wineglass,wineglass.n.01,
+wing,wing,wing.n.02,
+wire,wire,wire.n.01,
+wire_cutters,wire cutters,wire_cutter.n.01,"wirecutters,wire-cutters"
+wok,wok,wok.n.01,
+wolf,wolf,wolf.n.01,
+woman,woman,woman.n.01,adult female
+wood,wood,wood.n.01,
+wooden_leg,wooden leg,wooden_leg.n.01,"wooden-leg,woodenleg"
+workbench,workbench,workbench.n.01,work bench
+worm,worm,worm.n.01,
+wrap,wrap,wrap.n.02,
+wrapping_paper,wrapping paper,wrapping_paper.n.01,"wrappingpaper,wrapping-paper"
+wreath,wreath,wreath.n.01,"coronal,lei,chaplet"
+wreck,wreck,wreck.n.04,
+wrench,wrench,wrench.n.03,spanner
+wrist,wrist,wrist.n.01,"radiocarpal joint,carpus,articulatio radiocarpea"
+xylophone,xylophone,xylophone.n.01,
+yacht,yacht,yacht.n.01,
+yak,yak,yak.n.02,bos grunniens
+yarn,yarn,,
+yo-yo,yo-yo,yo-yo.n.01,"yo yo,yoyo"
+yogurt,yogurt,yogurt.n.01,"yoghourt,yoghurt"
+yoke,yoke,yoke.n.07,
+yolk,yolk,yolk.n.01,
+zebra,zebra,zebra.n.01,
+zipper,zipper,zipper.n.01,
+zucchini,zucchini,zucchini.n.02,
