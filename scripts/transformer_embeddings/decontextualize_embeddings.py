@@ -7,6 +7,11 @@ import pickle
 import os
 import random
 import torch
+import sys 
+sys.path.append('../..')
+
+from helpers.decontextualized import decontextualize_embeddings
+
 import DecontextEmbeddings.scripts.transformer_embeddings.utils as utils
 from sklearn.decomposition import PCA
 import numpy as np

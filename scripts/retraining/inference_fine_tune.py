@@ -1,6 +1,8 @@
 from collections import defaultdict
-from email.policy import default
 import torch
+import os 
+DATA_DIR = '/home/hhansen/DecontextEmbeddings/data'
+os.environ['DATA_DIR'] = DATA_DIR
 
 torch.set_num_threads(10)
 
@@ -102,22 +104,22 @@ def run_inference(out_path, n_jobs, embedding_path, file_name, checkpoint_path):
 if __name__ == '__main__':
     args = parseargs()
     layers = range(13)
-    #torch.set_num_threads(1)
+    torch.set_num_threads(5)
 
     for file_name, checkpoint_path in [
-            #('mse_loss.txt', 'mse_loss/checkpoint.pth.tar'),
-            #('constrastive_loss.txt', 'contrastive_loss/checkpoint.pth.tar'),
-            ('mse_new.txt', 'mse_new/checkpoint.pth.tar')
+            ('mse.txt', pjoin(DATA_DIR, 'retraining/mse/checkpoint.pth.tar')),
+            ('contrastive.txt', pjoin(DATA_DIR, 'retraining/contrastive/checkpoint.pth.tar')),
+            ('mae.txt', pjoin(DATA_DIR, 'retraining/mae/checkpoint.pth.tar'))
 
     ]:
-        model = SiameseNetwork(768)
+        model = SiameseNetwork(768, dropout=None, number_neurons=600, number_layers=1)
         states = torch.load(checkpoint_path)['state_dict']
         model.load_state_dict(states)
         model.eval()
         
         for layer in layers:
             print(f'{file_name} - {layer}')
-            base_path = f'../../../data_fine_tune/things/wikidumps/decontext/bert-base/{str(layer)}/word/mean/all/'
+            base_path = pjoin(DATA_DIR, f'embeddings/data_fine_tune/things/wikidumps/decontext/bert-base/{str(layer)}/word/mean/all/')
             embedding_path = pjoin(base_path, 'decontext.txt')
             
             with open(os.path.join(base_path, file_name), 'w') as output_file:

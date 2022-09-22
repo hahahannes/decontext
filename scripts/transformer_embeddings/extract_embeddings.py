@@ -17,7 +17,11 @@ import threading
 import json
 import torch
 import traceback
-import DecontextEmbeddings.scripts.transformer_embeddings.utils as utils
+import sys 
+sys.path.append('../..')
+
+from helpers.extraction import extract_embeddings
+import utils
 from multiprocessing import Pool, Manager, Process
 
 import numpy as np

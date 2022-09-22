@@ -4,12 +4,13 @@ import torchvision.datasets as datasets
 from torch.utils.data import DataLoader
 import torchvision.utils
 import torch
-torch.set_num_threads(20)
+torch.set_num_threads(5)
 from torch.autograd import Variable
 from torch import optim
 import torch.nn.functional as F
 import time 
 import random
+import pickle
 import numpy as np
 import pandas as pd 
 from model import SiameseNetwork
@@ -19,7 +20,8 @@ from loss import ContrastiveLoss, MSELoss, MAELoss
 import matplotlib.pyplot as plt
 from os.path import join as pjoin
 import os 
-os.environ['DATA_DIR'] ='/home/hannes/data/laptop_sync/Uni/master/masterarbeit/decon/DecontextEmbeddings/data'
+DATA_DIR = '/home/hhansen/DecontextEmbeddings/data'
+os.environ['DATA_DIR'] = DATA_DIR
 import wandb
 
 import sys 
@@ -30,7 +32,7 @@ from helpers.things_evaluation.evaluate import evaluate
 set_style_and_font_size()
 
 
-NAME = 'mae_v10'
+NAME = 'mae'
 LOSS = 'mae'
 
 train_dataset = None
@@ -106,7 +108,7 @@ def validate(val_loader, model, criterion, epoch):
 
 def inference(model):
     model.eval()
-    base_path = f'../../../data_fine_tune/things/wikidumps/decontext/bert-base/12/word/mean/all/'
+    base_path = pjoin(DATA_DIR, f'embeddings/data_fine_tune/things/wikidumps/decontext/bert-base/12/word/mean/all/')
     embedding_path = pjoin(base_path, 'decontext.txt')
 
     output_path = os.path.join(base_path, NAME + '.txt')
@@ -126,13 +128,13 @@ def inference(model):
                 output_file.write(';'.join([word, n_contexts, embedding_str]))
                 output_file.write('\n')
 
-    val_words = list(pd.read_csv('./val_words.txt', header=None, names=['words'])['words'])
+    val_words = list(pd.read_csv(pjoin(DATA_DIR, 'retraining', 'val_words.txt'), header=None, names=['words'])['words'])
     pearson, spearman, sim_df_matrix, sim_vector = evaluate(output_path, matching='word', matching_words=val_words)
     os.remove(output_path)
     return spearman.correlation
 
 def run(config, train_dataset, val_dataset):
-    working_dir = pjoin('./output', NAME)
+    working_dir = pjoin(DATA_DIR, 'retraining', NAME)
     if not os.path.exists(working_dir):
         os.makedirs(working_dir)
 
@@ -142,7 +144,7 @@ def run(config, train_dataset, val_dataset):
     
     model = SiameseNetwork(embedding_dimensionality, dropout=config['dropout'], number_neurons=config['number_neurons'], number_layers=config['number_layers']).to(device)
 
-    if LOSS == 'contrastive_loss':
+    if LOSS == 'contrastive':
         criterion = ContrastiveLoss()
     elif LOSS == 'mse':
         criterion = MSELoss()
@@ -164,13 +166,19 @@ def run(config, train_dataset, val_dataset):
                         batch_size=batch_size)
 
     early_stopping = EarlyStopping(tolerance=3)
-
+    train_epoch_losses = []
+    val_epoch_losses = []
+    
     for epoch in range(0, epochs):
         train_epoch_loss = train(train_loader, model, criterion, optimizer, epoch, train_dataset)
-        val_epoch_loss = validate(val_loader, model, criterion, epoch)
-        val_correlation = inference(model)
+        train_epoch_losses.append(train_epoch_loss)
 
-        wandb.log({'train_epoch_loss': train_epoch_loss, 'val_epoch_loss': val_epoch_loss, 'epoch': epoch, 'val_correlation': val_correlation})
+        val_epoch_loss = validate(val_loader, model, criterion, epoch)
+        val_epoch_losses.append(val_epoch_loss)
+        
+        #val_correlation = inference(model)
+
+        #wandb.log({'train_epoch_loss': train_epoch_loss, 'val_epoch_loss': val_epoch_loss, 'epoch': epoch, 'val_correlation': val_correlation})
 
         print(f'epoch {epoch} done')
         save_checkpoint({
@@ -182,6 +190,8 @@ def run(config, train_dataset, val_dataset):
         early_stopping(train_epoch_loss, val_epoch_loss)
         if early_stopping.early_stop:
             break
+    
+    return train_epoch_losses, val_epoch_losses
 
 def setup_wandb():
     sweep_config = {
@@ -230,17 +240,20 @@ def run_wandb():
         wandb.define_metric('train_batch_loss', step_metric='train_batch')
 
         wandb.define_metric('val_batch')
-        wandb.define_metric('val_batch_loss', step_metric='train_batch')
+        wandb.define_metric('val_batch_loss', step_metric='val_batch')
 
         config = wandb.config
         run(config, train_dataset, val_dataset)
 
 if __name__ == '__main__':
-    tuning = True 
+    tuning = False
 
     print('load datasets')
-    train_dataset = FileDataSet(pjoin(os.environ.get('DATA_DIR'), 'retraining', 'train_fine_tune_dataset.csv'))
-    val_dataset = FileDataSet(pjoin(os.environ.get('DATA_DIR'), 'retraining', 'val_fine_tune_dataset.csv'))
+    train_path = pjoin(DATA_DIR, 'retraining/train_fine_tune_dataset.csv')
+    train_dataset = FileDataSet(pjoin(os.environ.get('DATA_DIR'), 'retraining', train_path))
+    
+    val_path = pjoin(DATA_DIR, 'retraining/val_fine_tune_dataset.csv')
+    val_dataset = FileDataSet(pjoin(os.environ.get('DATA_DIR'), 'retraining', val_path))
     print('loaded datasets')
 
     if tuning:
@@ -249,13 +262,14 @@ if __name__ == '__main__':
         wandb.agent(sweep_id, function=run_wandb, count=count)
     else:
         config = {
-            'dropout': 0,
-            'weight_decay': 1,
-            'learning_rate': 0.1,
+            'dropout': 0.35,
+            'weight_decay': 0.000001,
+            'learning_rate': 0.000045,
             'batch_size': 1000,
-            'number_neurons': 50,
+            'number_neurons': 600,
             'number_layers': 1
         }
         wandb.init(project=NAME)
-        run(config, train_dataset, val_dataset)
-    
+        train_epoch_losses, val_epoch_losses = run(config, train_dataset, val_dataset)
+        with open(pjoin(DATA_DIR, 'retraining', LOSS, 'losses.npy'), 'wb') as loss_f:
+            pickle.dump({'train_epoch_losses': train_epoch_losses, 'val_epoch_losses': val_epoch_losses}, loss_f)

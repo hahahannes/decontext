@@ -1,0 +1,24 @@
+{
+    "os": "Linux-5.10.0-17-amd64-x86_64-with-glibc2.10",
+    "python": "3.8.5",
+    "heartbeatAt": "2022-09-17T13:02:29.708539",
+    "startedAt": "2022-09-17T13:02:28.729092",
+    "docker": null,
+    "gpu": "NVIDIA GeForce RTX 2080 Ti",
+    "gpu_count": 1,
+    "cpu_count": 128,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "fine_tune.py",
+    "codePath": "scripts/retraining/fine_tune.py",
+    "git": {
+        "remote": "git@github.com:hahahannes/decontext.git",
+        "commit": "a6e7e5076f06767887e637b8d0cdb4ee1a3eaa1b"
+    },
+    "email": "mail@hannesh.de",
+    "root": "/home/hhansen/DecontextEmbeddings",
+    "host": "nerz",
+    "username": "hhansen",
+    "executable": "/home/hhansen/decon/decon_env/bin/python3"
+}

@@ -14,8 +14,6 @@ def set_style_and_font_size():
     #plt.style.use('seaborn')
 
     tex_fonts = {
-        # Use LaTeX to write all text
-        "text.usetex": True,
         "font.family": "serif",
         # Use 10pt font in plots, to match 10pt font in document
         "axes.labelsize": 12,
